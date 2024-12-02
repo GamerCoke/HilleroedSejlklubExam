@@ -12,11 +12,18 @@ namespace HSLibrary.Models
         private KeyType _keyType;
         private Member _assignedMember;
         public int Id { get; }
-        public Member Member
+        public Member AssignedMember
         {
             get
             {
                 return _assignedMember;
+            }
+        }
+        public bool IsAssigned
+        {
+            get
+            {
+                return _assignedMember != null;
             }
         }
         public KeyType KeyType
