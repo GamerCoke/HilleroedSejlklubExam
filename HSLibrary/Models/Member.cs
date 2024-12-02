@@ -8,5 +8,12 @@ namespace HSLibrary.Models
 {
     public class Member
     {
+        private static int _count = 0;
+        public int Id { get; }
+
+        public Member()
+        {
+            Id = _count++;
+        }
     }
 }
