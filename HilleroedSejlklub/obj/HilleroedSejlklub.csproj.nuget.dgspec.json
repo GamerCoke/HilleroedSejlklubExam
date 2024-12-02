@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaspe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {}
+    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaspe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {
+    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaspe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+        "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
         "projectName": "HilleroedSejlklub",
-        "projectPath": "C:\\Users\\kaspe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
-        "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaspe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\obj\\",
+        "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+        "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
