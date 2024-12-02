@@ -49,7 +49,7 @@ namespace HSLibrary.Models
         }
         public override string ToString()
         {
-            return $"Key #{Id} | KeyType: {_keyType} | AssignedToMember: {_assignedMember}";
+            return $"Key #{Id} | KeyType: {_keyType} | AssignedToMember: {_assignedMember.Name}";
         }
     }
 }
