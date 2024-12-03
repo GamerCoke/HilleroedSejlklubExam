@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\keytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\keytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Key.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Models\\Key.cs",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Key.cs",
+              "RelativeToolTip": "HSLibrary\\Models\\Key.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:37:53.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyType.cs",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\KeyType.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Models\\KeyType.cs",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\KeyType.cs",
+              "RelativeToolTip": "HSLibrary\\Models\\KeyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T12:37:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
