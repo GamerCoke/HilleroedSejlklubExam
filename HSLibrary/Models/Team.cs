@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HSLibrary.Models
 {
-    public class Calender
+    public class Team
     {
     }
 }

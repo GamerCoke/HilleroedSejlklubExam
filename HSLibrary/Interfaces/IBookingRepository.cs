@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HSLibrary.Models
+namespace HSLibrary.Interfaces
 {
-    public class Calender
+    internal interface IBookingRepository
     {
     }
 }

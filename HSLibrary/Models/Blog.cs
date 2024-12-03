@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HSLibrary.Models
 {
-    internal class Blog
+    public class Blog
     {
     }
 }
