@@ -28,6 +28,11 @@ namespace HSLibrary.Services
             _keys.Add(key.Id, key);
         }
 
+        public Key Get(int id)
+        {
+            return _keys[id];
+        }
+
         public List<Key> GetAll()
         {
             List<Key> keys = new List<Key>();

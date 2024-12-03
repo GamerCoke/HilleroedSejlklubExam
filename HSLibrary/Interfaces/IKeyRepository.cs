@@ -12,6 +12,7 @@ namespace HSLibrary.Interfaces
         int Count { get; }
         void Add(Key key);
         void Remove(int id);
+        Key GetKey(int id);
         List<Key> GetAll();
         List<Key> GetAllOfType(KeyType keyType);
         List<Key> GetAllAssigned();
