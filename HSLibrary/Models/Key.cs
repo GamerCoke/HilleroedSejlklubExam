@@ -25,11 +25,9 @@ namespace HSLibrary.Models
                 return _assignedMember != null;
             }
         }
-        public KeyType KeyType { get; }
-        public Key(KeyType keyType)
+        public Key()
         {
             Id = _count++;
-            KeyType = keyType;
             _assignedMember = null;
         }
         public void AssignMember(Member member)
@@ -42,7 +40,7 @@ namespace HSLibrary.Models
         }
         public override string ToString()
         {
-            return $"Key #{Id} | KeyType: {KeyType} | AssignedToMember: {_assignedMember.Name}";
+            return $"Key #{Id} | AssignedToMember: {_assignedMember.Name}";
         }
     }
 }

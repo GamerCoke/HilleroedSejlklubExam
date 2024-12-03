@@ -3,10 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HSLibrary.Models;
 
 namespace HSLibrary.Interfaces
 {
-    internal interface IMemberRepository
+    public interface IMemberRepository
     {
+        int Count { get; }
+        void Add(Member member);
+        void Remove(int id);
+        Member Get(int id);
+        List<Member> GetAll();
+        List<Member> GetAllTrainers();
     }
 }

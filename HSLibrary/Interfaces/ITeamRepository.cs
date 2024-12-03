@@ -11,5 +11,9 @@ namespace HSLibrary.Interfaces
     {
         int Count {  get; }
         void Add(Team team);
+        void Remove(int id);
+        Team Get(int id);
+        List<Team> GetAll();
+        List<Team> GetAllByMember();
     }
 }

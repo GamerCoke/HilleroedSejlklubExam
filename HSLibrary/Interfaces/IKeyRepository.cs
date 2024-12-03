@@ -14,7 +14,6 @@ namespace HSLibrary.Interfaces
         void Remove(int id);
         Key Get(int id);
         List<Key> GetAll();
-        List<Key> GetAllOfType(KeyType keyType);
         List<Key> GetAllAssigned();
         List<Key> GetAllUnassigned();
         List<Key> GetAllAssignedToMember(Member member);
