@@ -10,6 +10,7 @@ namespace HSLibrary.Models
     {
         private static int _count = 0;
         public int Id { get; }
+        public string Name { get; set; }
 
         public Member()
         {
