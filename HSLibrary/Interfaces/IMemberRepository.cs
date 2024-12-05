@@ -15,5 +15,9 @@ namespace HSLibrary.Interfaces
         Member Get(int id);
         List<Member> GetAll();
         List<Member> GetAllTrainers();
+        List<Member> GetAllMinors();
+        List<Member> GetAllAdults();
+        List<Member> GetAllSeniors();
+        List<Member> GetAllAdmins();
     }
 }
