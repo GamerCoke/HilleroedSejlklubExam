@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HilleroedSejlklubExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e18a989b78984e937436688597c1369050b8b204")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f4fdaab77d030d09f6a567d10c1faaae653123c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HilleroedSejlklubExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HilleroedSejlklubExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
