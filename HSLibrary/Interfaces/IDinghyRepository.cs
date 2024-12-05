@@ -17,6 +17,6 @@ namespace HSLibrary.Interfaces
         List<Dinghy> GetAllNeedingRepairs();
         List<Dinghy> GetAllBooked();
         List<Dinghy> GetAllUnbooked();
-        List<Dinghy> GetAllOfModel(string model);
+        List<Dinghy> GetAllOfModel(DinghyModel model);
     }
 }
