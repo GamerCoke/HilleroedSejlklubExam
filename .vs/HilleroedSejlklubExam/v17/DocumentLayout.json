@@ -22,34 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:22:30Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:15:08.574Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -64,6 +38,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:22:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "RelativeToolTip": "HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:15:08.574Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Member.cs",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "HSLibrary\\Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:37:31.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T11:37:31.531Z"
             }
           ]
         }
