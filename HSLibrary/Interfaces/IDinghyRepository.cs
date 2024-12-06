@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using HSLibrary.Models;
+using HSLibrary.Models.Dinghy;
 
 namespace HSLibrary.Interfaces
 {
@@ -15,8 +15,6 @@ namespace HSLibrary.Interfaces
         Dinghy Get(int id);
         List<Dinghy> GetAll();
         List<Dinghy> GetAllNeedingRepairs();
-        List<Dinghy> GetAllBooked();
-        List<Dinghy> GetAllUnbooked();
         List<Dinghy> GetAllOfModel(DinghyModel model);
     }
 }
