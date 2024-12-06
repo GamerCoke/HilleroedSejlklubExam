@@ -53,7 +53,7 @@ namespace HSLibrary.Services
         public List<Event> GetAllByMember(Member member)
         {
             List<Event> list = new List<Event>();
-            foreach (Event Event in _events.Values)
+            foreach (Event Event in _events.Values) //skal Event ikke være med småt 2. gang?
             {
                 if (Event.Organiser == member) list.Add(Event);
             }
