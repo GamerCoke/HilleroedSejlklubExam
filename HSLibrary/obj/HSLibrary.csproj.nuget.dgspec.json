@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj": {}
   },
   "projects": {
@@ -15,17 +16,24 @@
         "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\obj\\",
 =======
     "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {}
+=======
+    "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {}
+>>>>>>> yh
   },
   "projects": {
-    "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
+    "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
         "projectName": "HSLibrary",
-        "projectPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+        "projectPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
         "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
+<<<<<<< HEAD
         "outputPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\obj\\",
 >>>>>>> b55822579b7f6fae5700a1b071d616d9b162cbfd
+=======
+        "outputPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\obj\\",
+>>>>>>> yh
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
