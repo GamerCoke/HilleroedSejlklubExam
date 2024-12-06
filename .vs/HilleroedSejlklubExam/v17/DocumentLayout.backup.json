@@ -4,6 +4,9 @@
   "Documents": [
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> update
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,10 +98,14 @@
         {
           "DockedWidth": 200,
 <<<<<<< HEAD
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
 =======
           "SelectedChildIndex": 18,
 >>>>>>> 2f67320d8fcfd004c359ec7ad9657e10836af34d
+=======
+          "SelectedChildIndex": 0,
+>>>>>>> update
           "Children": [
             {
               "$type": "Document",
@@ -125,6 +132,13 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T12:15:08.574Z",
               "EditorCaption": ""
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+>>>>>>> update
             },
             {
               "$type": "Bookmark",
@@ -137,6 +151,9 @@
             {
               "$type": "Document",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> update
               "DocumentIndex": 2,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Member.cs",
