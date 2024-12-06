@@ -9,12 +9,12 @@ namespace HSLibrary.Interfaces
 {
     public interface IBlogRepository
     {
-        int Count {  get; }
+        int Count { get; }
         void Add(Blog blog);
         void Remove(int id);
         Blog Get(int id);
         List<Blog> GetAll();
-        List<Blog> GetAllOnDate(DateOnly date);
+        List<Blog> GetAllOnDate(DateTime date);
         List<Blog> GetAllByMember(Member member);
     }
 }

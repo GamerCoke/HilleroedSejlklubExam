@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HSLibrary
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSLibrary\
+=======
+build_property.ProjectDir = C:\Users\sofie\source\repos\HilleroedSejlklubExam1\HSLibrary\
+>>>>>>> dd3bfbec72819b312a7c6ea8a29eff1ab7bb5e4a
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

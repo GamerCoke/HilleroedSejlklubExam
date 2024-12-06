@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HSLibrary.Models
+namespace HSLibrary.Services
 {
-    public class Calender
+    internal class TeamRepository
     {
     }
 }
