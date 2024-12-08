@@ -1,5 +1,6 @@
 ﻿using HSLibrary.Interfaces;
 using HSLibrary.Models;
+using HSLibrary.Models.Dinghy;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -41,7 +42,7 @@ namespace HSLibrary.Services
 
         public List<Team> GetAllByMember(Member member) //måske by trainer?
         {
-            List<Event> list = new List<Event>();
+            List<Team> list = new List<Team>();
             foreach (Team team in _teams.Values)
             {
                 if (team.Trainer == member) list.Add(team);
@@ -52,6 +53,16 @@ namespace HSLibrary.Services
         public void Remove(int id)
         {
             _teams.Remove(id);
+        }
+
+        public override string ToString()
+        {
+            string result = $"Der er et total af {Count} joller";
+            foreach (Team team in _teams.Values)
+            {
+                result += $"\n\t{team}";
+            }
+            return result;
         }
     }
 }

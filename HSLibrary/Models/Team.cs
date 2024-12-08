@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace HSLibrary.Models
 {
@@ -19,6 +20,10 @@ namespace HSLibrary.Models
             Id = _count++;
             Trainer = trainer;
             Participants = participants;
+        }
+        public override string ToString()
+        {
+            return $"Hold ID: {Id} - Træner: {Trainer} - Holdmedlemmer: {Participants}";
         }
     }
 }
