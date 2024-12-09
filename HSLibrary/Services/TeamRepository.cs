@@ -40,7 +40,7 @@ namespace HSLibrary.Services
            return _teams.Values.ToList();
         }
 
-        public List<Team> GetAllByMember(Member member) //måske by trainer?
+        public List<Team> GetAllByTrainer(Member member)
         {
             List<Team> list = new List<Team>();
             foreach (Team team in _teams.Values)
@@ -57,7 +57,7 @@ namespace HSLibrary.Services
 
         public override string ToString()
         {
-            string result = $"Der er et total af {Count} joller";
+            string result = $"Der er et total af {Count} hold";
             foreach (Team team in _teams.Values)
             {
                 result += $"\n\t{team}";

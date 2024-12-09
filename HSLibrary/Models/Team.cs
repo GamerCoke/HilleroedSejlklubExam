@@ -15,15 +15,15 @@ namespace HSLibrary.Models
         public Member Trainer;
         public Participants Participants { get;}
 
-        public Team(Member trainer, Participants participants)
+        public Team(Member trainer, int max)
         {
             Id = _count++;
             Trainer = trainer;
-            Participants = participants;
+            Participants = new Participants(max);
         }
         public override string ToString()
         {
-            return $"Hold ID: {Id} - Træner: {Trainer} - Holdmedlemmer: {Participants}";
+            return $"Hold ID: {Id} | Træner: {Trainer.Name} | Holdmedlemmer: {Participants.Members.Count}";
         }
     }
 }

@@ -15,6 +15,7 @@ namespace HSLibrary.Interfaces
         Dinghy Get(int id);
         List<Dinghy> GetAll();
         List<Dinghy> GetAllNeedingRepairs();
+        List<Dinghy> GetAllSeaWorthy();
         List<Dinghy> GetAllOfModel(DinghyModel model);
     }
 }

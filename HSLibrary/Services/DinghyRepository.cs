@@ -45,7 +45,16 @@ namespace HSLibrary.Services
             List<Dinghy> list = new List<Dinghy>();
             foreach (Dinghy dinghy in _dinghies.Values)
             {
-                if(dinghy.NeedsRepair) list.Add(dinghy);
+                if (dinghy.NeedsRepair) list.Add(dinghy);
+            }
+            return list;
+        }
+        public List<Dinghy> GetAllSeaWorthy()
+        {
+            List<Dinghy> list = new List<Dinghy>();
+            foreach (Dinghy dinghy in _dinghies.Values)
+            {
+                if (!dinghy.NeedsRepair) list.Add(dinghy);
             }
             return list;
         }

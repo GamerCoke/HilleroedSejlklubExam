@@ -14,6 +14,6 @@ namespace HSLibrary.Interfaces
         void Remove(int id);
         Team Get(int id);
         List<Team> GetAll();
-        List<Team> GetAllByMember(Member member);
+        List<Team> GetAllByTrainer(Member member);
     }
 }

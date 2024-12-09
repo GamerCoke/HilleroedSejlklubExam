@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj": {}
+    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj": {
+    "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
-        "projectName": "HSLibrary",
-        "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj",
+        "projectName": "HSConsoleApp",
+        "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
