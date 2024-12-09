@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\",
   "Documents": [
     {
@@ -20,6 +21,20 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\source\\repos\\hilleroedsejlklubexam1\\hslibrary\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\source\\repos\\hilleroedsejlklubexam1\\hslibrary\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\source\\repos\\hilleroedsejlklubexam1\\hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> update
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -82,15 +97,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+<<<<<<< HEAD
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+=======
           "SelectedChildIndex": 12,
           "Children": [
             {
+>>>>>>> 2f67320d8fcfd004c359ec7ad9657e10836af34d
+=======
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+>>>>>>> update
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\IMemberRepository.cs",
+              "RelativeToolTip": "HSLibrary\\Interfaces\\IMemberRepository.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+>>>>>>> update
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:22:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "RelativeToolTip": "HSLibrary\\Interfaces\\IBlogRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:15:08.574Z"
+<<<<<<< HEAD
             },
             {
               "$type": "Document",
@@ -102,6 +171,9 @@
               "RelativeToolTip": "HSLibrary\\Models\\Event.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAtwBUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-12-02T11:37:31.531Z"
+=======
               "WhenOpened": "2024-12-06T11:23:32.651Z",
               "EditorCaption": ""
             },
@@ -144,6 +216,8 @@
               "OverriddenGroupName": "HSLibrary\\Interfaces",
               "WhenOpened": "2024-12-06T09:25:29.952Z",
               "EditorCaption": ""
+=======
+>>>>>>> update
             },
             {
               "$type": "Document",
@@ -323,15 +397,26 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Member.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Member.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Member.cs",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Member.cs",
+=======
+              "DocumentMoniker": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Member.cs",
+>>>>>>> update
               "RelativeToolTip": "HSLibrary\\Models\\Member.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "OverriddenGroupName": "HSLibrary\\Models",
               "WhenOpened": "2024-12-02T11:37:31.531Z",
               "EditorCaption": ""
+>>>>>>> 2f67320d8fcfd004c359ec7ad9657e10836af34d
+=======
+              "WhenOpened": "2024-12-02T11:37:31.531Z"
+>>>>>>> update
             }
           ]
         }

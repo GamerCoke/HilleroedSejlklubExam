@@ -1,15 +1,49 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EE3y9mcF+Lw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "EE3y9mcF+Lw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "dgSpecHash": "EE3y9mcF+Lw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
+=======
+  "dgSpecHash": "RhwYnMlvj7k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+>>>>>>> b55822579b7f6fae5700a1b071d616d9b162cbfd
+=======
+  "dgSpecHash": "Bm7Rxz/axok=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+>>>>>>> yh
+>>>>>>> dd3bfbec72819b312a7c6ea8a29eff1ab7bb5e4a
+=======
+  "dgSpecHash": "r6Gg9RCeStg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+>>>>>>> update
+>>>>>>> 54ad43f403734efbe1ca5c3f9c7d0d755b70da3f
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> update
     }
   ]
 }
