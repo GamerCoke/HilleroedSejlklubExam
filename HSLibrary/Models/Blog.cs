@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HSLibrary.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -53,7 +54,7 @@ namespace HSLibrary.Models
 
         public override string ToString()
         {
-            return $"Blog ID: {Id} | Blog: {Text} | Oplagt den:{PostedBy}" + (LastUpdate==null?"":$" | Sidst opdateret:{LastUpdate}");
+            return $"Blog ID: {Id} | Blog: {Text} | Oplagt af: {PostedBy.Name} | Posted: {PostedOn}" + (LastUpdate==null?"":$" | Sidst opdateret:{LastUpdate}");
         }
         #endregion
     }

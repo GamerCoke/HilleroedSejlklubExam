@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace HSLibrary.Services
 {
-    internal class TeamRepository : ITeamRepository
+    public class TeamRepository : ITeamRepository
     {
         Dictionary<int, Team> _teams;
         public int Count 

@@ -9,6 +9,8 @@ using HSLibrary.Interfaces;
 using HSLibrary.Models;
 using HSLibrary.Models.Dinghy;
 
+using HSLibrary.Data;
+
 namespace HSLibrary.Services
 {
     public class BlogRepository : IBlogRepository
@@ -19,6 +21,7 @@ namespace HSLibrary.Services
         public BlogRepository()
         {
             _blogs = new Dictionary<int, Blog>();
+            _blogs = MockData.BlogData;
         }
 
         public void Add(Blog blog)

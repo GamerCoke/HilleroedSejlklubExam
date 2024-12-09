@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using HSLibrary.Models;
 using HSLibrary.Interfaces;
-using HSLibrary.Models.Dinghy;
+
+using HSLibrary.Data;
 
 namespace HSLibrary.Services
 {
@@ -17,6 +18,7 @@ namespace HSLibrary.Services
         public MemberRepository()
         {
             _members = new Dictionary<int, Member>();
+            _members = MockData.MemberData;
         }
 
         public void Add(Member member)

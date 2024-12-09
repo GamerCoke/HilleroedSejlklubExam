@@ -7,10 +7,10 @@ using HSLibrary.Models;
 
 namespace HSLibrary.Exceptions
 {
-    public class IsNotAdmin : Exception
+    public class IsNotAdminException : Exception
     {
         private Member _member;
-        public IsNotAdmin(Member member)
+        public IsNotAdminException(Member member)
         {
             _member = member;
         }
