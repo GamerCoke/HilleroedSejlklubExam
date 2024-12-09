@@ -12,7 +12,7 @@ namespace HSLibrary.Models
         private static int _count = 0;
 
         public int Id { get; }
-        public Member Trainer { get;}
+        public Member Trainer;
         public Participants Participants { get;}
 
         public Team(Member trainer, Participants participants)
