@@ -13,3 +13,18 @@ C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSLibrary\obj\D
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSLibrary\obj\Debug\net8.0\HSLibrary.pdb
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSLibrary\obj\Debug\net8.0\HSLibrary.genruntimeconfig.cache
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSLibrary\obj\Debug\net8.0\ref\HSLibrary.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.AssemblyInfoInputs.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.AssemblyInfo.cs
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.sourcelink.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\refint\HSLibrary.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.pdb
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.genruntimeconfig.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\ref\HSLibrary.dll
