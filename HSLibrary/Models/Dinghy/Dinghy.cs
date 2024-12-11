@@ -17,11 +17,11 @@ namespace HSLibrary.Models.Dinghy
         {
             get
             {
-                return RepairComment == null;
+                return RepairComment != null;
             }
         }
         public string RepairComment { get; private set; }
-        public List<RepairLogEntry> RepairLog;
+        public List<RepairLogEntry> RepairLog { get; }
 
         public Dinghy(DinghyModel model, string components)
         {
@@ -30,18 +30,20 @@ namespace HSLibrary.Models.Dinghy
             Components = components;
             RepairLog = new List<RepairLogEntry>();
         }
-        public void RepairDinghy(string notes)
+      
+
+        public void RepairDinghy(string summary, string notes)
         {
-            RepairLog.Add(new RepairLogEntry(notes));
+            RepairLog.Add(new RepairLogEntry(summary, notes));
             RepairComment = null;
         }
-        public void Repair(string repairComment)
+        public void NeedRepair(string repairComment)
         {
             RepairComment = repairComment;
         }
         public override string ToString()
         {
-            return $"ID: {Id} | Model: {Model} | Komponenter: {Components}";
+            return $"ID: {Id} | Model: {Model} | Komponenter: {Components}" + (NeedsRepair?$" | Defect: {RepairComment}":"");
         }
     }
 }

@@ -46,7 +46,7 @@ namespace HSConsoleApp
             _output = new Output();
         }
 
-        public void ManageCurrentUser()
+        private void ManageCurrentUser()
         {
             if (!_isLoggedIn)
             {

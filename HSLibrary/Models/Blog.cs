@@ -56,7 +56,7 @@ namespace HSLibrary.Models
 
         public override string ToString()
         {
-            return $"Blog ID: {Id} | Blog: {Title} | Oplagt af: {PostedBy.Name} | Posted: {PostedOn}" + (LastUpdate==null?"":$" | Sidst opdateret:{LastUpdate}");
+            return $"Blog ID: {Id} | Blog: {Title} | Oplagt af: {PostedBy.Name} | Posted: {PostedOn}" + (LastUpdate==null?"":$" | Sidst opdateret: {LastUpdate}");
         }
         #endregion
     }

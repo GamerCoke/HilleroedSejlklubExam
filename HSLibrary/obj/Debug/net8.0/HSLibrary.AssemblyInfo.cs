@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HSLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b477f02ed68ed716626e3109c6b48b33c5c88909")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3be2b15cc47e5fa215f9b2804d3e7abeb01aae3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("HSLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HSLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,5 +19,9 @@ namespace HSLibrary.Models.Dinghy.Motorized
             _fuelCapacity = fuelCapacity;
             _topSpeed = topSpeed;
         }
+        public override string ToString()
+        {
+            return $"{base.ToString()} | Brændstof: {_fuelType} | Kapacitet: {_fuelCapacity}L | Max distance {_maxRange}km | Top hastighed: {_topSpeed}km/t";
+        }
     }
 }
