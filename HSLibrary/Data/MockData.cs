@@ -52,16 +52,17 @@ namespace HSLibrary.Data
         private static Dictionary<int, Blog> _blogData =
             new Dictionary<int, Blog>()
             {
-                {0, new Blog(_memberData[0], "Jan er en sur kartoffel") },
-                {1, new Blog(_memberData[1], "Vi sælger Potat på flask") },
-                {2, new Blog(_memberData[2], "Alle mødre bliver inviteret til at komme og rydde op efter deres børn") }
+                {0, new Blog(_memberData[0], "Jans kartoffel", "Jan er en sur kartoffel") },
+                {1, new Blog(_memberData[1], "Flask potat", "Vi sælger Potat på flask") },
+                {2, new Blog(_memberData[2], "Mødre meeting" +
+                    "", "Alle mødre bliver inviteret til at komme og rydde op efter deres børn") }
             };
 
         private static Dictionary<int, Event> _eventData =
             new Dictionary<int, Event>()
             {
-                {0, new Event(new DateTime(2024, 12, 31, 20, 30, 0), "Nytårsfest", _memberData[3]) },
-                {1, new Event(new DateTime(2025, 4, 18, 14, 30, 0), "Korsfæestelse", _memberData[1], 2) }
+                {0, new Event(new DateTime(2024, 12, 31, 20, 30, 0), "Nytårsfest", "Nytårsfest for Hillerød sejlklub", _memberData[3]) },
+                {1, new Event(new DateTime(2025, 4, 18, 14, 30, 0), "Korsfæstelse", "Korsfæstelse for Hans Jegner", _memberData[1], 2) }
             };
 
         #endregion

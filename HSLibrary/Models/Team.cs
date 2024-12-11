@@ -24,7 +24,7 @@ namespace HSLibrary.Models
         }
         public override string ToString()
         {
-            return $"Hold ID: {Id} | Træner: {Trainer.Name} | Holdmedlemmer: {Participants.Members.Count}";
+            return $"Hold ID: {Id} | Træner: {Trainer.Name} | Holdmedlemmer: {Participants.Members.Count}/{Participants.Max}";
         }
     }
 }

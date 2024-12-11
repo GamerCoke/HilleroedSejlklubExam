@@ -15,6 +15,8 @@ namespace HSLibrary
             JohnCena = new Member("John", "Cena", "John@Cena.cn", new DateOnly(1172, 11, 11), "09126476");
             memberRepository.Add(JohnCena);
             Console.WriteLine($"{memberRepository}");
+
+
         }
     }
 }

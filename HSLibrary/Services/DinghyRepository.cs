@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HSLibrary.Data;
 
 namespace HSLibrary.Services
 {
@@ -22,6 +23,7 @@ namespace HSLibrary.Services
         public DinghyRepository()
         {
             _dinghies = new Dictionary<int, Dinghy>();
+            _dinghies = MockData.DinghyData;
         }
 
         public void Add(Dinghy dinghy)

@@ -14,7 +14,7 @@ namespace HSLibrary.Interfaces
         void Remove(int id);
         Blog Get(int id);
         List<Blog> GetAll();
-        List<Blog> GetAllOnDate(DateTime date);
+        List<Blog> GetAllOnDate(DateOnly date);
         List<Blog> GetAllByMember(Member member);
     }
 }

@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HSLibrary.Data;
 
 namespace HSLibrary.Services
 {
@@ -17,6 +18,7 @@ namespace HSLibrary.Services
         public BookingRepository()
         {
             _bookings = new Dictionary<int, Booking>();
+            _bookings = MockData.BookingData;
         }
 
         public void Add(Booking booking)
@@ -57,12 +59,12 @@ namespace HSLibrary.Services
             return temp;
         }
 
-        public List<Booking> GetAllOnDate(DateTime date)
+        public List<Booking> GetAllOnDate(DateOnly date)
         {
             List<Booking> temp = new List<Booking>();
             foreach (Booking booking in _bookings.Values)
             {
-                if (booking.Date == date)
+                if (DateOnly.FromDateTime(booking.Date) == date)
                     temp.Add(booking);
             }
             return temp;

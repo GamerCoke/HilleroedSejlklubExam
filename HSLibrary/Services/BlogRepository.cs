@@ -50,12 +50,12 @@ namespace HSLibrary.Services
             return temp; 
         }
 
-        public List<Blog> GetAllOnDate(DateTime date)
+        public List<Blog> GetAllOnDate(DateOnly date)
         {
             List<Blog> temp = new List<Blog>();
             foreach (Blog blog in _blogs.Values)
             {
-                if (blog.PostedOn == date)
+                if (DateOnly.FromDateTime(blog.PostedOn) == date)
                     temp.Add(blog);
             }
             return temp;

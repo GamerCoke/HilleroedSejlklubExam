@@ -18,7 +18,14 @@ namespace HSConsoleApp.IO
             int selectedId;
             while (true)
             {
-                selectedId = int.Parse(Read());
+                try
+                {
+                    selectedId = int.Parse(Read());
+                }
+                catch
+                {
+                    selectedId = -1;
+                }
                 if (selectedId < 0 || selectedId >= list.Count) continue;
                 return list[selectedId];
             }

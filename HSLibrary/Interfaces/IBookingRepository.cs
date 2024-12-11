@@ -15,7 +15,7 @@ namespace HSLibrary.Interfaces
         void Remove(int id);
         Booking Get(int id);
         List<Booking> GetAll();
-        List<Booking> GetAllOnDate(DateTime date);
+        List<Booking> GetAllOnDate(DateOnly date);
         List<Booking> GetAllByMember(Member member);
         List<Booking> GetAllByDinghy(Dinghy dinghy);
     }

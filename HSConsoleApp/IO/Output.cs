@@ -19,7 +19,7 @@ namespace HSConsoleApp.IO
             Write($"Der er {list.Count} objekter:");
             for(int i = 0; i < list.Count; i++)
             {
-                Write($"{i}# {list[i]}");
+                Write($"\t{i}# {list[i]}");
             }
         }
     }

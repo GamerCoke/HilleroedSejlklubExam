@@ -22,6 +22,7 @@ namespace HSLibrary.Models.Dinghy
         }
         public string RepairComment { get; private set; }
         public List<RepairLogEntry> RepairLog;
+
         public Dinghy(DinghyModel model, string components)
         {
             Id = _count++;
@@ -40,7 +41,7 @@ namespace HSLibrary.Models.Dinghy
         }
         public override string ToString()
         {
-            return $"ID: {Id} | Model {Model} | Komponenter: {Components}";
+            return $"ID: {Id} | Model: {Model} | Komponenter: {Components}";
         }
     }
 }

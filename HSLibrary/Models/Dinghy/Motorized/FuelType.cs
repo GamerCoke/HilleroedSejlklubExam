@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace HSLibrary.Models.Dinghy
 {
-    public enum DinghyModel { Optimistjolle, Feva, Tera, Europajolle, Snipejolle, Lynæs, Wayfarer, Laserjolle, Motorized }
+    public enum FuelType { Diesel, Bensin, El, BioDiesel, VinDiesel }
 }

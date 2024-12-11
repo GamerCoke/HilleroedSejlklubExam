@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HSLibrary.Data;
 
 namespace HSLibrary.Services
 {
@@ -23,6 +24,7 @@ namespace HSLibrary.Services
         public TeamRepository()
         {
             _teams = new Dictionary<int, Team>();
+            _teams = MockData.TeamData;
         }
 
         public void Add(Team team)
