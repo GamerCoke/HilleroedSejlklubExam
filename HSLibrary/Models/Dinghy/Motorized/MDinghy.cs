@@ -14,6 +14,10 @@ namespace HSLibrary.Models.Dinghy.Motorized
         private double _topSpeed;
         public MDinghy(string components, FuelType fuelType, int maxRange, double fuelCapacity, double topSpeed ) : base(DinghyModel.Motorized , components)
         {
+            _fuelType = fuelType;
+            _maxRange = maxRange;
+            _fuelCapacity = fuelCapacity;
+            _topSpeed = topSpeed;
         }
     }
 }
