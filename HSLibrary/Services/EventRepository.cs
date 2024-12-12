@@ -7,6 +7,8 @@ using HSLibrary.Interfaces;
 using HSLibrary.Models;
 using HSLibrary.Models.Dinghy;
 
+using HSLibrary.Data;
+
 namespace HSLibrary.Services
 {
     public class EventRepository : IEventRepository
@@ -23,6 +25,7 @@ namespace HSLibrary.Services
         public EventRepository()
         {
             _events = new Dictionary<int, Event>();
+            _events = MockData.EventData;
         }
 
         public void Add(Event Event)

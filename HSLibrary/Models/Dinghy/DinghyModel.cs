@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace HSLibrary.Models.Dinghy
 {
-    public enum DinghyModel { Optimistjolle, Feva, Tera, Europajolle, Snipejolle, Lynæs, Wayfarer, Laserjolle }
+    public enum DinghyModel { Optimistjolle, Feva, Tera, Europajolle, Snipejolle, Lynæs, Wayfarer, Laserjolle, Motorized }
 }

@@ -7,7 +7,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HilleroedSejlklubExam", "Hi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HilleroedSejlklub", "HilleroedSejlklub\HilleroedSejlklub.csproj", "{31241127-D2F0-4CFD-B5DF-48F6A1DBFD05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSLibrary", "HSLibrary\HSLibrary.csproj", "{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HSLibrary", "HSLibrary\HSLibrary.csproj", "{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HSConsoleApp", "HSConsoleApp\HSConsoleApp.csproj", "{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1} = {3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +32,10 @@ Global
 		{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,8 @@ using HSLibrary.Interfaces;
 using HSLibrary.Models;
 using HSLibrary.Models.Dinghy;
 
+using HSLibrary.Data;
+
 namespace HSLibrary.Services
 {
     public class BlogRepository : IBlogRepository
@@ -19,6 +21,7 @@ namespace HSLibrary.Services
         public BlogRepository()
         {
             _blogs = new Dictionary<int, Blog>();
+            _blogs = MockData.BlogData;
         }
 
         public void Add(Blog blog)
@@ -47,12 +50,12 @@ namespace HSLibrary.Services
             return temp; 
         }
 
-        public List<Blog> GetAllOnDate(DateTime date)
+        public List<Blog> GetAllOnDate(DateOnly date)
         {
             List<Blog> temp = new List<Blog>();
             foreach (Blog blog in _blogs.Values)
             {
-                if (blog.PostedOn == date)
+                if (DateOnly.FromDateTime(blog.PostedOn) == date)
                     temp.Add(blog);
             }
             return temp;

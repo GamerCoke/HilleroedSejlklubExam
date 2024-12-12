@@ -10,14 +10,16 @@ namespace HSLibrary.Models.Dinghy
     {
         public DateOnly Date { get; }
         public string Notes { get; }
-        public RepairLogEntry(string notes)
+        public string Summary { get; }
+        public RepairLogEntry(string summary, string notes)
         {
+            Summary = summary;
             Notes = notes;
             Date = DateOnly.FromDateTime(DateTime.Now);
         }
         public override string ToString()
         {
-            return $"Date of Repair: {Date}\n\t{Notes}";
+            return $"Dato af Reperation: {Date} | Summering: {Summary}";
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HSLibrary.Interfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -19,15 +20,17 @@ namespace HSLibrary.Models
         public DateTime PostedOn { get; }
         public DateTime? LastUpdate { get; private set; }
         public string Text { get; private set; }
+        public string Title { get; }
 
         // public ImageFileMachine Pictures { get; set; }
         #endregion
 
         #region Constructors
-        public Blog(Member poster, string text)
+        public Blog(Member poster, string title, string text)
         {
             Id = _count++;
             PostedBy = poster;
+            Title = title;
             Text = text;
             PostedOn = DateTime.Now;
             LastUpdate = null;
@@ -53,7 +56,7 @@ namespace HSLibrary.Models
 
         public override string ToString()
         {
-            return $"Blog ID: {Id} | Blog: {Text} | Oplagt den:{PostedBy}" + (LastUpdate==null?"":$" | Sidst opdateret:{LastUpdate}");
+            return $"Blog ID: {Id} | Blog: {Title} | Oplagt af: {PostedBy.Name} | Posted: {PostedOn}" + (LastUpdate==null?"":$" | Sidst opdateret: {LastUpdate}");
         }
         #endregion
     }
