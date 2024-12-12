@@ -18,20 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklubExam
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blog/AddBlog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xBZGRCbG9nLmNzaHRtbA==
+[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blogs/AddBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcQWRkQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blog/EditBlog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xFZGl0QmxvZy5jc2h0bWw=
+[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blogs/EditBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcRWRpdEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blog/RemoveBlog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xSZW1vdmVCbG9nLmNzaHRtbA==
+[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blogs/RemoveBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcUmVtb3ZlQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blog/ShowBlog.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xTaG93QmxvZy5jc2h0bWw=
+[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Blogs/ShowBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcU2hvd0Jsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Bookings/AddBooking.cshtml]

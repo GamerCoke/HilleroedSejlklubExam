@@ -13,7 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <ProjectReference Include="..\HilleroedSejlklub\HilleroedSejlklub.csproj" />
+=======
+>>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
     <ProjectReference Include="..\HSLibrary\HSLibrary.csproj" />
   </ItemGroup>
 
