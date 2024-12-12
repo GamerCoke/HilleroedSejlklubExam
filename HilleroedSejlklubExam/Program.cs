@@ -1,4 +1,14 @@
+using HSLibrary.Interfaces;
+using HSLibrary.Services;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSingleton<IBlogRepository, BlogRepository>();
+builder.Services.AddSingleton<IBookingRepository, BookingRepository>();
+builder.Services.AddSingleton<IDinghyRepository, DinghyRepository>();
+builder.Services.AddSingleton<IEventRepository, EventRepository>();
+builder.Services.AddSingleton<IMemberRepository, MemberRepository>();
+builder.Services.AddSingleton<ITeamRepository, TeamRepository>();
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();
