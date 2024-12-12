@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
+    "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {
+    "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+        "projectUniqueName": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
         "projectName": "HilleroedSejlklubExam",
-        "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\",
+        "projectPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+        "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

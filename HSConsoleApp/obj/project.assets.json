@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sofie\\.nuget\\packages\\": {}
+    "C:\\Users\\kaspe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSConsoleApp\\HSConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
       "projectName": "HSConsoleApp",
-      "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSConsoleApp\\HSConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSConsoleApp\\obj\\",
+      "projectPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
-              "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
+            "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
+              "projectPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj"
             }
           }
         }

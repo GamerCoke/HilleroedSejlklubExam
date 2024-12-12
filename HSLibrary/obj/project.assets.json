@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sofie\\.nuget\\packages\\": {}
+    "C:\\Users\\kaspe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
       "projectName": "HSLibrary",
-      "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
-      "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\obj\\",
+      "projectPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
+      "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
