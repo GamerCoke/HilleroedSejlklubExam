@@ -8,7 +8,7 @@ namespace HilleroedSejlklubExam.Pages.Bookings
     public class ShowBookingModel : PageModel
     {
         private IBookingRepository _bookingRepository;
-        public List<Booking> Bookings  { get; private set; }
+        public List<Booking> Booking  { get; private set; }
         public Show
         public void OnGet()
         {
