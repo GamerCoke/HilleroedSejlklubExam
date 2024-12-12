@@ -17,7 +17,8 @@ namespace HSLibrary.Data
                 { 0, new Member("Mikkel","Barfod", "gg@gamermail.com", new DateOnly(1999, 12, 15) , "20202020") },
                 { 1, new Member("Chad","Gaylord Smith", "LordOfTheGaymers@gamermail.com", new DateOnly(1961,10,25), "42069420") },
                 { 2, new Member("Carina", "Carina", "CarinaDenFlotte.420@gmail.com", new DateOnly(1892,11,02), "60606969" )},
-                { 3, new Member("Theodore", "Kaczynski", "UncleTed@Boston.com", new DateOnly (1942, 5, 22), "10062023") }
+                { 3, new Member("Theodore", "Kaczynski", "UncleTed@Boston.com", new DateOnly (1942, 5, 22), "10062023")},
+                { 4, new Member("Steve", "Minecraft", "GettingDiamonds@Mojang.com", new DateOnly (2014, 3, 25), "12341234")}
             };
 
         private static Dictionary<int, Team> _teamData =
@@ -46,7 +47,8 @@ namespace HSLibrary.Data
                 {0, new Booking(new DateTime(2024,12,12,13,30,0), new TimeSpan(1,30,0), _memberData[0], _dinghyData[0])},
                 {1, new Booking(new DateTime(2024,12,12,15,00,0), new TimeSpan(2,0,0), _memberData[2], _dinghyData[3])},
                 {2, new Booking(new DateTime(2024,12,20,13,30,0), new TimeSpan(0,15,0), _memberData[3], _dinghyData[1])},
-                {3, new Booking(new DateTime(2024,12,24,0,0,0), new TimeSpan(3,30,0), _memberData[1], _dinghyData[4])}
+                {3, new Booking(new DateTime(2024,12,24,0,0,0), new TimeSpan(3,30,0), _memberData[1], _dinghyData[4])},
+                {4, new Booking(new DateTime(2024,12,23,0,0,0), new TimeSpan(3,30,0), _memberData[1], _dinghyData[4])}
             };
 
         private static Dictionary<int, Blog> _blogData =
@@ -70,7 +72,11 @@ namespace HSLibrary.Data
         {
             _memberData[0].IsActiveTrainer = true;
             _memberData[1].IsActiveTrainer = true;
+            _memberData[2].IsActiveTrainer = true;
+            _memberData[1].IsAdmin = true;
+            _memberData[1].HasKey = true;
         }
+
         #region Properties
         public static Dictionary<int, Member> MemberData
         {
