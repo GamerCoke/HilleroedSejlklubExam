@@ -1,4 +1,12 @@
 ﻿@page
+@using HSLibrary.Models
 @model HilleroedSejlklubExam.Pages.Bookings.ShowBookingModel
 @{
+    ViewData["Title"] = "ShowBookings";
 }
+<h1>Antal af Bookings @Model.Bookings.count </h1>
+
+<p>
+    <a asp-asp-page="Add Booking"></a>
+</p>
+

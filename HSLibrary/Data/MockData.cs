@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using HSLibrary.Models;
 using HSLibrary.Models.Dinghy;
+using HSLibrary.Models.Dinghy.Motorized;
 
 namespace HSLibrary.Data
 {
@@ -38,7 +39,8 @@ namespace HSLibrary.Data
                 {3, new Dinghy(DinghyModel.Lynæs, "Motor, oppustelig gummi båd")},
                 {4, new Dinghy(DinghyModel.Lynæs, "Hele Lynæs")},
                 {5, new Dinghy(DinghyModel.Optimistjolle , "Oppustelig gummi and")},
-                {6, new Dinghy(DinghyModel.Snipejolle, "blå snipe (en fugl)")}
+                {6, new Dinghy(DinghyModel.Snipejolle, "blå snipe (en fugl)")},
+                {7, new MDinghy("Den har fandme lasere",FuelType.El ,5000, 2, 420)}
             };
 
         private static Dictionary<int, Booking> _bookingData =
@@ -75,6 +77,9 @@ namespace HSLibrary.Data
             _memberData[2].IsActiveTrainer = true;
             _memberData[1].IsAdmin = true;
             _memberData[1].HasKey = true;
+            _dinghyData[2].NeedRepair("Der er en Goblin gemt i jollen");
+            _dinghyData[7].NeedRepair("Motoren bryder termodynamiske love");
+            _dinghyData[7].RepairDinghy("Stop med at klag over FTL motoren", "FTL motoren, lavet af Jan, er er videnskabeligt vidunder og du kan ikke undgå en smule antimatter når den bruges.");
         }
 
         #region Properties
