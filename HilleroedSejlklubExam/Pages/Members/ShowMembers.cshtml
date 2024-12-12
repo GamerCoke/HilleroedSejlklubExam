@@ -1,10 +1,12 @@
 ﻿@page
+@using HSLibrary.Models
+@using HSLibrary.Services
 @model HilleroedSejlklubExam.Pages.Members.ShowMembersModel
 @{
     ViewData["Title"] = "ShowMembers";
 }
 
-<h1>Antal klubmedlemmer  @HSLibrary.Services.MemberRepository.Count </h1>
+<h1>Antal klubmedlemmer  @MemberRepository.Count </h1>
 
 @*Skaber et link, som sender brugeren videre til siden "AddMember".*@
 <p>
@@ -31,8 +33,9 @@
             <tr>
                 <td>@member.Id</td>
                 <td>@member.Name</td>
-                <td>@member.Address</td>
-                <td>@member.Mobile</td>
+                <td>@member.Phone</td>
+                <td>@member.Birthday</td>
+                <td>@member.HasKey</td>
                 @*Billede: For hver kunde vises et billede (hvis der er et tilknyttet billede) 
                  Dette billede vises som en rund figur med en størrelse på 80x70 pixels.*@
                 <td>
@@ -42,7 +45,7 @@
                 @*Rediger og Slet Links: For hver medlem er der links til at redigere og slette medlemmet. 
                 Linksene bruger asp-page til at navigere til de relevante sider *@
                 <td><a asp-page="EditMember" asp-route-id="@member.Id">Rediger medlem</a></td>
-                <td><a asp-page="DeleteMember" asp-route-deleteMobile="@member.Mobile">Fjern medlem</a></td>
+                <td><a asp-page="DeleteMember" asp-route-deleteMobile="@member.Id">Fjern medlem</a></td>
             </tr>
         }
     </tbody>

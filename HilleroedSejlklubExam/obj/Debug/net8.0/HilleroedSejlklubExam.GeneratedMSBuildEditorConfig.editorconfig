@@ -9,140 +9,127 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HilleroedSejlklubExam
 build_property.RootNamespace = HilleroedSejlklubExam
-build_property.ProjectDir = C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\
+build_property.ProjectDir = C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam
+build_property.MSBuildProjectDirectory = C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blogs/AddBlog.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Blogs/AddBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcQWRkQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blogs/EditBlog.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Blogs/EditBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcRWRpdEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blogs/RemoveBlog.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Blogs/RemoveBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcUmVtb3ZlQmxvZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blogs/ShowBlog.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Blogs/ShowBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NcU2hvd0Jsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Bookings/AddBooking.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Bookings/AddBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcQWRkQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Bookings/EditBooking.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Bookings/EditBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcRWRpdEJvb2tpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Bookings/RemoveBooking.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Bookings/RemoveBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcUmVtb3ZlQm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Bookings/ShowBooking.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Bookings/ShowBooking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcU2hvd0Jvb2tpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/AddDinghy.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Dinghies/AddDinghy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcQWRkRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/EditDinghy.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Dinghies/EditDinghy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcRWRpdERpbmdoeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/RemoveDinghy.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Dinghies/RemoveDinghy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcUmVtb3ZlRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghies.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowSpecificDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd1NwZWNpZmljRGluZ2h5LmNzaHRtbA==
-=======
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/AddDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcQWRkRGluZ2h5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/EditDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcRWRpdERpbmdoeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/RemoveDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcUmVtb3ZlRGluZ2h5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghy.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoeS5jc2h0bWw=
->>>>>>> 21ad11a5980529fd246fb6d2e7660f64a9d0091b
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Error.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Dinghies/ShowSpecificDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd1NwZWNpZmljRGluZ2h5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Events/AddEvent.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Events/AddEvent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEFkZEV2ZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Events/EditEvent.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Events/EditEvent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEVkaXRFdmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Events/RemoveEvent.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Events/RemoveEvent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXFJlbW92ZUV2ZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Events/ShowEvent.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Events/ShowEvent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXFNob3dFdmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Index.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Members/AddMember.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Members/AddMember.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xBZGRNZW1iZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Members/DeleteMember.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Members/DeleteMember.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xEZWxldGVNZW1iZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Members/EditMember.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Members/EditMember.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xFZGl0TWVtYmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Members/ShowMembers.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Members/ShowMembers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyc1xTaG93TWVtYmVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Privacy.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/_ViewImports.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/_ViewStart.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Shared/_Layout.cshtml]
+[C:/Users/sofie/OneDrive/Dokumenter/Studie Zealand/Eksamensprojekt 24/HilleroedSejlklubExam1/HilleroedSejlklubExam/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xk8bi57795
