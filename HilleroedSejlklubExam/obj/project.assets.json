@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Malthe\\.nuget\\packages\\": {}
+    "C:\\Users\\sofie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+      "projectUniqueName": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
       "projectName": "HilleroedSejlklubExam",
-      "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-      "packagesPath": "C:\\Users\\Malthe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\",
+      "projectPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+      "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -54,8 +54,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
-              "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj"
+            "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
+              "projectPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
             }
           }
         }
@@ -96,5 +96,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
