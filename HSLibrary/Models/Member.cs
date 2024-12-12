@@ -30,9 +30,10 @@ namespace HSLibrary.Models
                 return (int)((DateTime.Now - Birthday.ToDateTime(new TimeOnly(0, 0, 0, 0, 0))).TotalDays / 365.25d);
             }
         }
-
+        public string MemberImage { get; set; } = "default.jpg"; 
         public Member(string fistName, string lastName, string email, DateOnly birthday, string phone)
         {
+            MemberImage = "default.jpg";
             Id = _count++;
             _firstName = fistName;
             _lastName = lastName;

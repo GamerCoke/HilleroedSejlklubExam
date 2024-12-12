@@ -9,7 +9,7 @@ namespace HilleroedSejlklubExam.Pages.Members
     {
         private IMemberRepository _memberRepository;
 
-        public List<Member> Members { get; private set; }
+        public List<Member> MemberList { get; private set; }
 
         public ShowMembersModel(IMemberRepository memberRepository)
         {
@@ -17,7 +17,7 @@ namespace HilleroedSejlklubExam.Pages.Members
         }
         public void OnGet()
         {
-            Members = _memberRepository.GetAll();
+            MemberList = _memberRepository.GetAll();
         }
     }
     
