@@ -13,3 +13,18 @@ C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlkl
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.pdb
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.genruntimeconfig.cache
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklub\obj\Debug\net8.0\ref\HilleroedSejlklub.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\bin\Debug\net8.0\HilleroedSejlklub.exe
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\bin\Debug\net8.0\HilleroedSejlklub.deps.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\bin\Debug\net8.0\HilleroedSejlklub.runtimeconfig.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\bin\Debug\net8.0\HilleroedSejlklub.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\bin\Debug\net8.0\HilleroedSejlklub.pdb
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.AssemblyInfoInputs.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.AssemblyInfo.cs
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.csproj.CoreCompileInputs.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.sourcelink.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\refint\HilleroedSejlklub.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.pdb
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\HilleroedSejlklub.genruntimeconfig.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HilleroedSejlklub\obj\Debug\net8.0\ref\HilleroedSejlklub.dll

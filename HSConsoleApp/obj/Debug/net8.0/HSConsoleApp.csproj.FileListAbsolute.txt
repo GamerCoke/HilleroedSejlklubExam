@@ -20,3 +20,25 @@ C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSConsoleApp\ob
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.pdb
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.genruntimeconfig.cache
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HSConsoleApp\obj\Debug\net8.0\ref\HSConsoleApp.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSConsoleApp.exe
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSConsoleApp.deps.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSConsoleApp.runtimeconfig.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSConsoleApp.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSConsoleApp.pdb
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.AssemblyInfo.cs
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.sourcelink.json
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsol.C9FF158D.Up2Date
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\refint\HSConsoleApp.dll
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.pdb
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\HSConsoleApp.genruntimeconfig.cache
+C:\Users\Malthe\Source\Repos\HilleroedSejlklubExam\HSConsoleApp\obj\Debug\net8.0\ref\HSConsoleApp.dll
