@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Member\" />
-    <Folder Include="Pages\Team\" />
+    <Folder Include="Pages\Members\" />
+    <Folder Include="Pages\Teams\" />
     <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 

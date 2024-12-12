@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "HilleroedSejlklubExam/1.0.0": {
+        "dependencies": {
+          "HSLibrary": "1.0.0"
+        },
         "runtime": {
           "HilleroedSejlklubExam.dll": {}
+        }
+      },
+      "HSLibrary/1.0.0": {
+        "runtime": {
+          "HSLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "HilleroedSejlklubExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HSLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
