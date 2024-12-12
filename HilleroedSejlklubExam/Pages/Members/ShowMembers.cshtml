@@ -1,12 +1,16 @@
+<<<<<<< HEAD
 ﻿@* @* @page
 @using HSLibrary.Models
 @using HSLibrary.Services
+=======
+﻿@page
+>>>>>>> memeber
 @model HilleroedSejlklubExam.Pages.Members.ShowMembersModel
 @{
     ViewData["Title"] = "ShowMembers";
 }
 
-<h1>Antal klubmedlemmer  @MemberRepository.Count </h1>
+<h1>Antal klubmedlemmer  @Model.MemberList.Count </h1>
 
 @*Skaber et link, som sender brugeren videre til siden "AddMember".*@
 <p>
@@ -28,7 +32,11 @@
     @*Dynamisk indhold: Ved hjælp af @foreach-loopet itereres gennem alle medlemmer i Model.Member. 
     For hver medlem oprettes en ny række (<tr>) med data om medlemmet i celler (<td>).*@
     <tbody>
+<<<<<<< HEAD
         @* @foreach (Member member in Model.Members)
+=======
+        @foreach (var member in Model.MemberList)
+>>>>>>> memeber
         {
             <tr>
                 <td>@member.Id</td>
