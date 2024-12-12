@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-﻿@* @* @page
-@using HSLibrary.Models
-@using HSLibrary.Services
-=======
-﻿@page
->>>>>>> memeber
+@page
 @model HilleroedSejlklubExam.Pages.Members.ShowMembersModel
 @{
     ViewData["Title"] = "ShowMembers";
@@ -12,8 +6,8 @@
 
 <h1>Antal klubmedlemmer  @Model.MemberList.Count </h1>
 
-@*Skaber et link, som sender brugeren videre til siden "AddMember".*@
-<p>
+@* Skaber et link, som sender brugeren videre til siden "AddMember".*@
+ <p>
     <a asp-page="AddMember" >Tilføj et nyt klubmedlem</a>
 </p>
 
@@ -29,14 +23,10 @@
           
         </tr>
     </thead>
-    @*Dynamisk indhold: Ved hjælp af @foreach-loopet itereres gennem alle medlemmer i Model.Member. 
+ @*Dynamisk indhold: Ved hjælp af @foreach-loopet itereres gennem alle medlemmer i Model.Member. 
     For hver medlem oprettes en ny række (<tr>) med data om medlemmet i celler (<td>).*@
     <tbody>
-<<<<<<< HEAD
-        @* @foreach (Member member in Model.Members)
-=======
         @foreach (var member in Model.MemberList)
->>>>>>> memeber
         {
             <tr>
                 <td>@member.Id</td>
@@ -45,15 +35,15 @@
                 <td>@member.Birthday</td>
                 <td>@member.HasKey</td>
                 @*Billede: For hver kunde vises et billede (hvis der er et tilknyttet billede) 
-                 Dette billede vises som en rund figur med en størrelse på 80x70 pixels.*@
+                 Dette billede vises som en rund figur med en størrelse på 80x70 pixels.
                 <td>
-                   @*  <img src="~/Images/MemberImages/@member.MemberImage" class="rounded-circle" width="80" height="70" /> *@
-                </td>
+                    <img src="~/Images/MemberImages/@member.MemberImage" class="rounded-circle" width="80" height="70" />
+                 </td>*@
 
                 @*Rediger og Slet Links: For hver medlem er der links til at redigere og slette medlemmet. 
                 Linksene bruger asp-page til at navigere til de relevante sider *@
-                @* <td><a asp-page="EditMember" asp-route-id="@member.Id">Rediger medlem</a></td>
-                <td><a asp-page="DeleteMember" asp-route-deleteMobile="@member.Id">Fjern medlem</a></td> *@
+                <td><a asp-page="EditMember" asp-route-id="@member.Id">Rediger medlem</a></td>
+                <td><a asp-page="DeleteMember" asp-route-deleteMobile="@member.Id">Fjern medlem</a></td>
             </tr>
         }
     </tbody>

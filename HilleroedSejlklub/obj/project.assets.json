@@ -8,31 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
-    "C:\\Users\\Malthe\\.nuget\\packages\\": {}
-=======
     "C:\\Users\\sofie\\.nuget\\packages\\": {}
->>>>>>> memeber
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
-=======
       "projectUniqueName": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
->>>>>>> memeber
       "projectName": "HilleroedSejlklub",
       "projectPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
       "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-<<<<<<< HEAD
-        "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
         "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> memeber
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "LNRkELt0V4A=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-=======
   "dgSpecHash": "hFnDAKkbKp0=",
   "success": true,
   "projectFilePath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
->>>>>>> memeber
   "expectedPackageFiles": [],
   "logs": [
     {
