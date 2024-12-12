@@ -1,33 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "lN99MykrGGA=",
+  "dgSpecHash": "o80H8Xz0jF4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "lN99MykrGGA=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
-=======
-  "dgSpecHash": "IigRx2YHB4I=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\sofie\\Source\\Repos\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
->>>>>>> b55822579b7f6fae5700a1b071d616d9b162cbfd
-=======
-  "dgSpecHash": "4hot0nhrHd0=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
->>>>>>> yh
->>>>>>> dd3bfbec72819b312a7c6ea8a29eff1ab7bb5e4a
+  "projectFilePath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklub\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+      "message": "Problem reading the cache file C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
 }
