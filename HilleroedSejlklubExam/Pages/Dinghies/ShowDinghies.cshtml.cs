@@ -6,12 +6,14 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HilleroedSejlklubExam.Pages.Dinghies
 {
-    public class AddDinghyModel : PageModel
+    public class ShowDinghyModel : PageModel
     {
         IDinghyRepository _dinghyRepository;
-        public AddDinghyModel(IDinghyRepository dinghyRepository)
+        public List<Dinghy> DinghyList; 
+        public ShowDinghyModel(IDinghyRepository dinghyRepository)
         {
             _dinghyRepository = dinghyRepository;
+            DinghyList = _dinghyRepository.GetAll();
         }
         public void OnGet()
         {

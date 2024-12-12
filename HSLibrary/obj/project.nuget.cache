@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "npRdjm5rTTE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
+=======
+  "dgSpecHash": "C1iZ/Y6mGZY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
+>>>>>>> 92803656c833532d82ff4cbf154a7c4ba886ac4b
   "expectedPackageFiles": [],
   "logs": []
 }

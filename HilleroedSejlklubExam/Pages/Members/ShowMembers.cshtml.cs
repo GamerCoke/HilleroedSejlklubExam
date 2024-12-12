@@ -11,13 +11,13 @@ namespace HilleroedSejlklubExam.Pages.Members
 
         public List<Member> Members { get; private set; }
 
-        public ShowMembersModel(IMemberRepository customerRepository)
+        public ShowMembersModel(IMemberRepository memberRepository)
         {
-            _memberRepository = customerRepository;
+            _memberRepository = memberRepository;
         }
         public void OnGet()
         {
-            Member = _memberRepository.GetAll();
+            Members = _memberRepository.GetAll();
         }
     }
     

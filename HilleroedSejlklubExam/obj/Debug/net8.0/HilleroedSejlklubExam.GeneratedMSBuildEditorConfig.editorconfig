@@ -62,8 +62,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcUmVtb3ZlRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoeS5jc2h0bWw=
+[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowSpecificDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd1NwZWNpZmljRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Malthe/Source/Repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Error.cshtml]
