@@ -18,6 +18,54 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blog/AddBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xBZGRCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blog/EditBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xFZGl0QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blog/RemoveBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xSZW1vdmVCbG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Blog/ShowBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ1xTaG93QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Booking/AddBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1xBZGRCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Booking/EditBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1xFZGl0Qm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Booking/RemoveBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1xSZW1vdmVCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Booking/ShowBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1xTaG93Qm9va2luZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghy/AddDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XEFkZERpbmdoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghy/EditDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XEVkaXREaW5naHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghy/RemoveDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XFJlbW92ZURpbmdoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghy/ShowDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XFNob3dEaW5naHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
