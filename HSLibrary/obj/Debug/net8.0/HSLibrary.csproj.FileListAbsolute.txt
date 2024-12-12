@@ -28,3 +28,18 @@ C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSe
 C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.pdb
 C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\HSLibrary.genruntimeconfig.cache
 C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HSLibrary\obj\Debug\net8.0\ref\HSLibrary.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.AssemblyInfoInputs.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.AssemblyInfo.cs
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.sourcelink.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\refint\HSLibrary.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.pdb
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\HSLibrary.genruntimeconfig.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HSLibrary\obj\Debug\net8.0\ref\HSLibrary.dll

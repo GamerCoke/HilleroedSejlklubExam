@@ -50,20 +50,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ1xTaG93Qm9va2luZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghy/AddDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XEFkZERpbmdoeS5jc2h0bWw=
+[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/AddDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcQWRkRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghy/EditDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XEVkaXREaW5naHkuY3NodG1s
+[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/EditDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcRWRpdERpbmdoeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghy/RemoveDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XFJlbW92ZURpbmdoeS5jc2h0bWw=
+[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/RemoveDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcUmVtb3ZlRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghy/ShowDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2h5XFNob3dEaW5naHkuY3NodG1s
+[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowSpecificDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd1NwZWNpZmljRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Error.cshtml]
