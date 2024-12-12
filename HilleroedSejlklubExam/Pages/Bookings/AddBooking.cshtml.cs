@@ -1,5 +1,12 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+<<<<<<< HEAD
+
+namespace HilleroedSejlklubExam.Pages.Members
+{
+    public class AddMemberModel : PageModel
+    {
+=======
 using HSLibrary.Interfaces;
 using HSLibrary.Models.Dinghy;
 
@@ -19,8 +26,13 @@ namespace HilleroedSejlklubExam.Pages.Bookings
             _environment = environment;
         }
 
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
         public void OnGet()
         {
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
