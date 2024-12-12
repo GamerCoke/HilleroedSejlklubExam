@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\event\\removeevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\event\\removeevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\event\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\event\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\event\\showevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\event\\showevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blog\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blog\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -203,6 +219,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EditEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\EditEvent.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Event\\EditEvent.cshtml",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\EditEvent.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Event\\EditEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:23:47.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoveEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\RemoveEvent.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Event\\RemoveEvent.cshtml",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\RemoveEvent.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Event\\RemoveEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:23:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:23:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\ShowEvent.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Event\\ShowEvent.cshtml",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\ShowEvent.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Event\\ShowEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:22:55.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RemoveBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blog\\RemoveBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blog\\RemoveBlog.cshtml",
@@ -215,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AddBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blog\\AddBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blog\\AddBlog.cshtml",
@@ -228,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EditBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blog\\EditBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blog\\EditBlog.cshtml",
@@ -241,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ShowBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blog\\ShowBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blog\\ShowBlog.cshtml",
@@ -254,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "RemoveBooking.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Booking\\RemoveBooking.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Booking\\RemoveBooking.cshtml",
@@ -267,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "AddBooking.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Booking\\AddBooking.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Booking\\AddBooking.cshtml",
@@ -280,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "EditBooking.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Booking\\EditBooking.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Booking\\EditBooking.cshtml",
@@ -293,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ShowBooking.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Booking\\ShowBooking.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Booking\\ShowBooking.cshtml",
@@ -306,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "EditDinghy.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghy\\EditDinghy.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghy\\EditDinghy.cshtml",
@@ -319,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "RemoveDinghy.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghy\\RemoveDinghy.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghy\\RemoveDinghy.cshtml",
@@ -332,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "AddDinghy.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghy\\AddDinghy.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghy\\AddDinghy.cshtml",
@@ -345,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ShowDinghy.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghy\\ShowDinghy.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghy\\ShowDinghy.cshtml",
@@ -358,12 +426,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml*",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T10:23:14.799Z",
@@ -371,12 +439,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Index.cshtml*",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Index.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T10:16:57.875Z",
@@ -384,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "MDinghy.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Motorized\\MDinghy.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Motorized\\MDinghy.cs",
@@ -397,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "FuelType.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
@@ -410,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "BookingOverlapException.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Exceptions\\BookingOverlapException.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Exceptions\\BookingOverlapException.cs",
@@ -423,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "WrongUserException.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Exceptions\\WrongUserException.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Exceptions\\WrongUserException.cs",
@@ -436,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Team.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Team.cs",
@@ -449,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "HSLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
               "RelativeDocumentMoniker": "HSLibrary\\HSLibrary.csproj",
@@ -461,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "HSConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj",
               "RelativeDocumentMoniker": "HSConsoleApp\\HSConsoleApp.csproj",
@@ -473,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "MockData.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Data\\MockData.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Data\\MockData.cs",
@@ -487,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "Input.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\IO\\Input.cs",
               "RelativeDocumentMoniker": "HSConsoleApp\\IO\\Input.cs",
@@ -501,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Output.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\IO\\Output.cs",
               "RelativeDocumentMoniker": "HSConsoleApp\\IO\\Output.cs",
@@ -515,7 +583,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "UserInterface.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\IO\\UserInterface.cs",
               "RelativeDocumentMoniker": "HSConsoleApp\\IO\\UserInterface.cs",
@@ -529,7 +597,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "HSConsoleApp\\Program.cs",
@@ -542,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "IsNotAdminException.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Exceptions\\IsNotAdminException.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Exceptions\\IsNotAdminException.cs",
@@ -556,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Event.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Event.cs",
@@ -569,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "IBookingRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Interfaces\\IBookingRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IBookingRepository.cs",
@@ -582,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Participants.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Participants.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Participants.cs",
@@ -595,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "IDinghyRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Interfaces\\IDinghyRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IDinghyRepository.cs",
@@ -609,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "IBlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IBlogRepository.cs",
@@ -622,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "EventRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\EventRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\EventRepository.cs",
@@ -636,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Dinghy.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Dinghy.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Dinghy.cs",
@@ -650,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "TeamRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\TeamRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\TeamRepository.cs",
@@ -664,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "BlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\BlogRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\BlogRepository.cs",
@@ -678,7 +746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "BookingRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\BookingRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\BookingRepository.cs",
@@ -691,7 +759,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "MemberRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\MemberRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\MemberRepository.cs",
@@ -705,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "DinghyRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\DinghyRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\DinghyRepository.cs",
@@ -718,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Blog.cs",
@@ -731,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Booking.cs",
@@ -745,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "DinghyModel.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\DinghyModel.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\DinghyModel.cs",
@@ -759,7 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "RepairLogEntry.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\RepairLogEntry.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\RepairLogEntry.cs",
@@ -772,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Program.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Program.cs",
@@ -785,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Member.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Member.cs",
