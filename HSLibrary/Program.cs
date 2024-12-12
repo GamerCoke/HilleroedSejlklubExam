@@ -10,6 +10,7 @@ namespace HSLibrary
     {
         private static void Main(string[] args)
         {
+            Console.WriteLine("Oprettelse af bruger\n");
             MemberRepository memberRepository = new MemberRepository();
             Member JohnCena;
             JohnCena = new Member("John", "Cena", "John@Cena.cn", new DateOnly(1972, 11, 11), "XX-ZZ-YY-CC");
@@ -29,8 +30,8 @@ namespace HSLibrary
             dinghyRepository.Add(Jytte);
             Jytte.NeedRepair("Skal males");
 
-            Console.WriteLine("test af tostring:\n" + dinghyRepository.ToString());
-
+            Console.WriteLine("test af tostring:\n" + dinghyRepository.ToString() + "\n");
+            Console.WriteLine("fjerner motorized jolle\n");
             dinghyRepository.Remove(Karen.Id);
             Console.WriteLine(dinghyRepository.ToString());
             Console.WriteLine();
@@ -56,13 +57,13 @@ namespace HSLibrary
             Console.WriteLine(blogRepo.ToString() + "\n");
             Blog mBlog = new Blog(JohnCena,"Mikkel's Fø's","den her er i faktisk inviteret til");
             blogRepo.Add(mBlog);
-            Console.WriteLine(mBlog.ToString() + "\n");
+            Console.WriteLine(mBlog.ToString());
             Console.WriteLine(mBlog.Text + "\n");
             mBlog.EditText("Nyhed: i må gerne være med!");
             Console.WriteLine("Test af rediger tekst\n" + $"{mBlog}\n{mBlog.Text}" + "\n");
             Console.WriteLine("Test af GetAll\n" + ListToString(blogRepo.GetAll()) + "\n");
             Console.WriteLine("Test af Get\n" + blogRepo.Get(mBlog.Id) + "\n");
-            Console.WriteLine("Test af GetAllOnDat\n" + ListToString(blogRepo.GetAllOnDate(DateOnly.FromDateTime(DateTime.Now))) + "\n");
+            Console.WriteLine("Test af GetAllOnDate\n" + ListToString(blogRepo.GetAllOnDate(DateOnly.FromDateTime(DateTime.Now))) + "\n");
             Console.WriteLine("Test af GetAllByMember\n" + ListToString(blogRepo.GetAllByMember(JohnCena)) + "\n");
             blogRepo.Remove(mBlog.Id);
             Console.WriteLine("Test af Remove\n" + ListToString(blogRepo.GetAll()) + "\n");
@@ -84,15 +85,15 @@ namespace HSLibrary
 
             Console.WriteLine("\nVi tester nu event");
             EventRepository eventRepo = new EventRepository();
-            Event newEvent = new Event(new DateTime(2024,12,27,17,30,00),"Julefrokost","Vi holder vores årlige julefrokost. Alle er velkomne.",JohnCena);
+            Event julefrokostEvent = new Event(new DateTime(2024,12,27,17,30,00),"Julefrokost","Vi holder vores årlige julefrokost.",JohnCena, 3);
             Console.WriteLine("\nTest af GetAll\n" + ListToString(eventRepo.GetAll()));
-            eventRepo.Add(newEvent);
+            eventRepo.Add(julefrokostEvent);
             Console.WriteLine("\nTest af Add\n" + ListToString(eventRepo.GetAll()));
-            Console.WriteLine("\nTest af Get\n\t" + eventRepo.Get(newEvent.Id));
+            Console.WriteLine("\nTest af Get\n\t" + eventRepo.Get(julefrokostEvent.Id));
             Console.WriteLine("\nTest af GetallOnDate\n" + ListToString(eventRepo.GetAllOnDate(new DateOnly(2025, 4, 18))));
-            Console.WriteLine("\nTest af GetAllByMember\n" + ListToString(eventRepo.GetAllByMember(JohnCena))); /*oh my*/
-            Console.WriteLine($"\nTest af beskrivelse\n{newEvent.ToString} {newEvent.Description}"); /*oh my*/
-            eventRepo.Remove(newEvent.Id);
+            Console.WriteLine("\nTest af GetAllByMember\n" + ListToString(eventRepo.GetAllByMember(JohnCena))); 
+            Console.WriteLine($"\nTest af beskrivelse\n\t{julefrokostEvent.ToString()} {julefrokostEvent.Description}");
+            eventRepo.Remove(julefrokostEvent.Id);
             Console.WriteLine("\nTest af Remove\n" + ListToString(eventRepo.GetAll()));
 
             Console.WriteLine("\nVi tester nu Member");
@@ -109,21 +110,46 @@ namespace HSLibrary
             Console.WriteLine("\nTest af GetAllAdmins\n" + ListToString(memberRepo.GetAllAdmins()));
             newMember.BuyKey();
             Console.WriteLine("\nTest af BuyKey\n\t" + newMember.ToString());
-            memberRepo.Remove(newMember.Id);
+            newMember.IsAdmin = true;
+            Console.WriteLine("\nTest af nyt bestyrrelsesmedlem (Hanne)\n\t" + ListToString(memberRepo.GetAllAdmins()));
+            memberRepo.Remove(6);
             Console.WriteLine("\nTest af Remove\n" + ListToString(memberRepo.GetAll()));
 
             Console.WriteLine("\nVi tester nu Participants");
-            Participants julefrokost = new Participants();
-            Console.WriteLine("\nTest af GetAll\n" + ListToString(julefrokost.GetAll()));
-            julefrokost.AddMember(newMember);
-            julefrokost.AddMember(JohnCena);
-            Console.WriteLine("\nTest af AddMember\n" + ListToString(julefrokost.GetAll()));
-            Console.WriteLine("\nTest af Get\n\t" );
-            Console.WriteLine("\nTest af NotExpired\n");
-            Console.WriteLine("\nTest af UnderLimit\n"); 
-            Console.WriteLine($"\nTest af for mange deltagere\n");
-            Console.WriteLine($"\nTest af udløbet\n"); 
-            Console.WriteLine("\nTest af Remove\n");
+            Console.WriteLine("\nTest af GetAll\n" + ListToString(julefrokostEvent.Participants.GetAll()));
+            julefrokostEvent.Participants.AddMember(newMember);
+            julefrokostEvent.Participants.AddMember(memberRepo.Get(2));
+            julefrokostEvent.Participants.AddMember(memberRepo.Get(3));
+            Console.WriteLine("\nTest af AddMember\n" + ListToString(julefrokostEvent.Participants.GetAll()));
+            Event sommerfest2024 = new Event(new DateTime(2024-8-28),"Sommerfest","Årlig sommerfest", newMember);
+            sommerfest2024.Participants.AddMember(newMember);
+            Console.WriteLine("\nTest af Expired\n" + ListToString(sommerfest2024.Participants.GetAll()));
+            julefrokostEvent.Participants.AddMember(memberRepo.Get(1));
+            Console.WriteLine($"\nTest af for mange deltagere\n" + ListToString(julefrokostEvent.Participants.GetAll()));
+            julefrokostEvent.Participants.RemoveMember(newMember);
+            Console.WriteLine("\nTest af Remove\n" + ListToString(julefrokostEvent.Participants.GetAll()));
+
+            Console.WriteLine("\nVi tester nu Team");
+            TeamRepository teamRepo = new TeamRepository();
+            Console.WriteLine("\nTest af GetAll\n" + ListToString(teamRepo.GetAll()));
+            Team seniorSejlads = new Team(memberRepo.Get(1),5);
+            foreach (Member member in memberRepo.GetAllSeniors())
+            {
+                seniorSejlads.Participants.AddMember(member);
+            }
+            teamRepo.Add(seniorSejlads);
+            Team juniorSejlads = new Team (memberRepo.Get(2),5);
+            foreach (Member member in memberRepo.GetAllMinors())
+            {
+                juniorSejlads.Participants.AddMember(member);
+            }
+            teamRepo.Add(juniorSejlads);
+            Console.WriteLine("\nTest af Add\n" + ListToString(teamRepo.GetAll()));
+            Console.WriteLine("\nTest af Get\n\t" + teamRepo.Get(seniorSejlads.Id));
+            Console.WriteLine("\nTest af GetAllByTrainer\n" + ListToString(teamRepo.GetAllByTrainer(memberRepo.Get(2))));
+            teamRepo.Remove(seniorSejlads.Id);
+            Console.WriteLine("\nTest af Remove\n" + ListToString(teamRepo.GetAll()));
+           
         }
         private static string ListToString<T>(List<T> list)
         {

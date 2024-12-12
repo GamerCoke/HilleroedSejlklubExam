@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {}
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+        "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
         "projectName": "HilleroedSejlklub",
-        "projectPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
-        "packagesPath": "C:\\Users\\kaspe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\obj\\",
+        "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kaspe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

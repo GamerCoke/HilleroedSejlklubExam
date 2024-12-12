@@ -42,7 +42,6 @@ namespace HSLibrary.Models
             Birthday = birthday;
             IsAdmin = false;
             Phone = phone;
-            HasKey = false;
         }
 
         public void BuyKey()
