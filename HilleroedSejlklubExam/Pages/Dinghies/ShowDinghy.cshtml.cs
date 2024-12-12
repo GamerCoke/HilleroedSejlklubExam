@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace HilleroedSejlklubExam.Pages.Blog
+namespace HilleroedSejlklubExam.Pages.Dinghy
 {
-    public class AddBlogModel : PageModel
+    public class ShowDinghyModel : PageModel
     {
         public void OnGet()
         {

@@ -29,6 +29,7 @@ C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlkl
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.genruntimeconfig.cache
 C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\ref\HilleroedSejlklubExam.dll
+<<<<<<< HEAD
 C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.json
 C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.deps.json
@@ -67,3 +68,12 @@ C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debu
 C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
 C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.genruntimeconfig.cache
 C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\ref\HilleroedSejlklubExam.dll
+=======
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.AssemblyReference.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\Hilleroe.91BB9616.Up2Date
+>>>>>>> 21ad11a5980529fd246fb6d2e7660f64a9d0091b
