@@ -50,8 +50,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,7 +64,7 @@
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Program.cs",
               "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Program.cs",
               "RelativeToolTip": "HilleroedSejlklubExam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T11:52:09.525Z",
               "EditorCaption": ""
@@ -75,8 +79,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:50:47.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:50:47.613Z"
             },
             {
               "$type": "Document",
@@ -88,8 +91,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:50:41.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:50:41.804Z"
             },
             {
               "$type": "Document",
@@ -101,8 +103,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:50:35.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:50:35.948Z"
             },
             {
               "$type": "Document",
@@ -114,8 +115,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:50:30.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:50:30.632Z"
             },
             {
               "$type": "Document",
@@ -127,8 +127,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:50:23.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:50:23.804Z"
             },
             {
               "$type": "Document",
@@ -140,8 +139,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:50:14.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:50:14.355Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "HSLibrary\\Models\\Booking.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:38:27.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:38:27.048Z"
             },
             {
               "$type": "Bookmark",
@@ -176,27 +173,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AddBooking.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
-              "ToolTip": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
+              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:31:54.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:31:54.878Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AddBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
-              "ToolTip": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
+              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:29:19.713Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:29:19.713Z"
             }
           ]
         }
