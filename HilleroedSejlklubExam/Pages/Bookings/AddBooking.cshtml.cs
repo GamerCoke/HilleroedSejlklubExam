@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 <<<<<<< HEAD
 
-namespace HilleroedSejlklubExam.Pages.Member
+namespace HilleroedSejlklubExam.Pages.Members
 {
     public class AddMemberModel : PageModel
     {
