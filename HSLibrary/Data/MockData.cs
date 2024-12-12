@@ -79,7 +79,7 @@ namespace HSLibrary.Data
             _memberData[1].HasKey = true;
             _dinghyData[2].NeedRepair("Der er en Goblin gemt i jollen");
             _dinghyData[7].NeedRepair("Motoren bryder termodynamiske love");
-            _dinghyData[7].RepairDinghy("Stop med at klag over FTL motoren", "FTL motoren, lavet af Jan, er er videnskabeligt vidunder og du kan ikke undgå en smule antimatter når den bruges.");
+            _dinghyData[7].RepairDinghy("Stop med at klag over FTL motoren", "FTL motoren, lavet af Jan, er et videnskabeligt vidunder og du kan ikke undgå en smule antimatter når den bruges.");
         }
 
         #region Properties

@@ -18,8 +18,17 @@ namespace HilleroedSejlklubExam.Pages.Bookings
             _repo = repo;
             _environment = environment;
         }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> bec08ba61bc22e6c48a6111e2c39419564383dfb
         public void OnGet()
         {
         }
     }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> bec08ba61bc22e6c48a6111e2c39419564383dfb
