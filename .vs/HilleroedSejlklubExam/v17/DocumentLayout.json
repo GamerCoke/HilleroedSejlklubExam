@@ -1,11 +1,14 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\showblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\showblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\showblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -14,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,102 +44,15 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hsconsoleapp\\io\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|solutionrelative:hsconsoleapp\\io\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\models\\participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\",
-  "Documents": [
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\event\\editevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
->>>>>>> b5c0c857797d1b0492ea608dc1cfab4b3907837c
->>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\addbooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\addbooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\editbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\editbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\editbooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\editbooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\removebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\removebooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-=======
-<<<<<<< HEAD
->>>>>>> j
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blog\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blog\\removeblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
->>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\removebooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\removebooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\showbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\showbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\showbooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\showbooking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\addbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
-=======
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\showblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\showblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\blogs\\removeblog.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hilleroedsejlklubexam\\pages\\blogs\\editblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -205,27 +125,16 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\services\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hilleroedsejlklubexam\\pages\\member\\editmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\member\\editmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hilleroedsejlklubexam\\pages\\member\\deletemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\member\\deletemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hilleroedsejlklubexam\\pages\\member\\showmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\member\\showmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\services\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\exceptions\\bookingoverlapexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\exceptions\\bookingoverlapexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -255,85 +164,55 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\dinghy\\motorized\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hilleroedsejlklubexam\\pages\\member\\addmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\member\\addmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hilleroedsejlklubexam\\pages\\member\\showmember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\member\\showmember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\models\\dinghy\\motorized\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\dinghy\\motorized\\fueltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\dinghy\\dinghymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\dinghy\\dinghymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\services\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> j
+      "AbsoluteMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hsconsoleapp\\io\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|solutionrelative:hsconsoleapp\\io\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hsconsoleapp\\io\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|solutionrelative:hsconsoleapp\\io\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\services\\dinghyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\dinghyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\models\\participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\participants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\services\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|solutionrelative:hsconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hsconsoleapp\\io\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|solutionrelative:hsconsoleapp\\io\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\services\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\interfaces\\idinghyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\idinghyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\services\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\services\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hslibrary\\hslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\hslibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|c:\\users\\bi-kuben\\desktop\\zealand\\1. semester\\programmering\\exam\\hsconsoleapp\\hsconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{10A5DB27-3156-498E-ACE3-2A6FB652A6EC}|HSConsoleApp\\HSConsoleApp.csproj|solutionrelative:hsconsoleapp\\hsconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-<<<<<<< HEAD
-=======
->>>>>>> b5c0c857797d1b0492ea608dc1cfab4b3907837c
->>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
-=======
-      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\sofie\\onedrive\\dokumenter\\studie zealand\\eksamensprojekt 24\\hilleroedsejlklubexam1\\hslibrary\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\interfaces\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> j
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
     }
   ],
   "DocumentGroupContainers": [
@@ -343,143 +222,10 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
-=======
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-<<<<<<< HEAD
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Program.cs",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Program.cs",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Program.cs",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:52:09.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:50:47.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditBooking.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml.cs",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml.cs",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml.cs",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:50:41.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RemoveBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:50:35.948Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RemoveBooking.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml.cs",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml.cs",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml.cs",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:50:30.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShowBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:50:23.804Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ShowBooking.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml.cs",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml.cs",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml.cs",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:50:14.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Booking.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Booking.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Booking.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:38:27.048Z"
-            },
-            {
-              "$type": "Bookmark",
-=======
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Bookmark",
->>>>>>> j
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-<<<<<<< HEAD
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-=======
-<<<<<<< HEAD
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
->>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
-              "$type": "Bookmark",
-=======
->>>>>>> j
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -488,7 +234,6 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 14,
               "Title": "AddBlog.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\AddBlog.cshtml.cs",
@@ -497,8 +242,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Blogs\\AddBlog.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:49:44.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:49:44.444Z"
             },
             {
               "$type": "Document",
@@ -510,12 +254,11 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Blogs\\EditBlog.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:49:42.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:49:42.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "RemoveBlog.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\RemoveBlog.cshtml.cs",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blogs\\RemoveBlog.cshtml.cs",
@@ -528,13 +271,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ShowBlog.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\ShowBlog.cshtml.cs",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blogs\\ShowBlog.cshtml.cs",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\ShowBlog.cshtml.cs",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Blogs\\ShowBlog.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T11:33:33.517Z",
               "EditorCaption": ""
@@ -547,72 +290,24 @@
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Events\\EditEvent.cshtml",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Events\\EditEvent.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Events\\EditEvent.cshtml",
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-              "Title": "AddBooking.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-              "Title": "Participants.cs",
-              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Participants.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Participants.cs",
-              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Participants.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Participants.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:18:28.497Z",
-=======
-              "DocumentIndex": 0,
-              "Title": "EditMember.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\EditMember.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Member\\EditMember.cshtml",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\EditMember.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Member\\EditMember.cshtml",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:47:53.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:23:47.085Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 19,
               "Title": "RemoveEvent.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Events\\RemoveEvent.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Events\\RemoveEvent.cshtml",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Events\\RemoveEvent.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Events\\RemoveEvent.cshtml",
-=======
-              "DocumentIndex": 1,
-              "Title": "DeleteMember.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\DeleteMember.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Member\\DeleteMember.cshtml",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\DeleteMember.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Member\\DeleteMember.cshtml",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-12-12T11:23:30.129Z",
-<<<<<<< HEAD
-=======
->>>>>>> b5c0c857797d1b0492ea608dc1cfab4b3907837c
-=======
-              "WhenOpened": "2024-12-12T11:47:39.674Z",
->>>>>>> j
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:23:30.129Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 20,
               "Title": "AddEvent.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Events\\AddEvent.cshtml",
@@ -621,8 +316,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Events\\AddEvent.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:23:08.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:23:08.836Z"
             },
             {
               "$type": "Document",
@@ -632,40 +326,13 @@
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Events\\ShowEvent.cshtml",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Events\\ShowEvent.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Events\\ShowEvent.cshtml",
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-<<<<<<< HEAD
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
-=======
-              "Title": "AddEvent.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
-              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Event\\AddEvent.cshtml",
-=======
-              "DocumentIndex": 3,
-              "Title": "AddMember.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\AddMember.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Member\\AddMember.cshtml",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\AddMember.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Member\\AddMember.cshtml",
->>>>>>> j
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:40:34.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T11:22:55.725Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "RemoveBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\RemoveBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blogs\\RemoveBlog.cshtml",
@@ -673,37 +340,11 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Blogs\\RemoveBlog.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:32:29.199Z",
-=======
-              "DocumentIndex": 4,
-              "Title": "ShowMember.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml.cs",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml.cs*",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T11:32:30.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:32:29.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ShowMember.cshtml",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml*",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Member\\ShowMember.cshtml*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T11:27:55.182Z",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AddBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\AddBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blogs\\AddBlog.cshtml",
@@ -711,8 +352,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Blogs\\AddBlog.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:32:09.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:32:09.572Z"
             },
             {
               "$type": "Document",
@@ -724,12 +364,11 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Blogs\\EditBlog.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:31:55.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:31:55.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ShowBlog.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Blogs\\ShowBlog.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Blogs\\ShowBlog.cshtml",
@@ -750,8 +389,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\RemoveBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:29:55.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:29:55.438Z"
             },
             {
               "$type": "Document",
@@ -762,35 +400,8 @@
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 5,
-              "Title": "FuelType.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
->>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-12-12T11:31:54.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddBooking.cshtml",
-              "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
-              "ToolTip": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\AddBooking.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-12-12T11:29:19.713Z"
-=======
-              "WhenOpened": "2024-12-12T10:29:37.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:29:37.694Z"
             },
             {
               "$type": "Document",
@@ -802,20 +413,11 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\EditBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:29:25.459Z",
-=======
-              "WhenOpened": "2024-12-12T08:22:29.283Z",
->>>>>>> j
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:29:25.459Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 16,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 11,
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Title": "ShowBooking.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
@@ -823,65 +425,22 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:29:14.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:29:14.182Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "EditDinghy.cshtml",
-<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
-=======
-              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghy\\EditDinghy.cshtml",
-              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghy\\EditDinghy.cshtml",
-              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghy\\EditDinghy.cshtml",
-              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghy\\EditDinghy.cshtml",
-=======
-              "DocumentIndex": 4,
-=======
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Program.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Program.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Program.cs",
-              "RelativeToolTip": "HSLibrary\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAgwHgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T18:23:07.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
->>>>>>> j
-              "Title": "DinghyRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\DinghyRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Services\\DinghyRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\DinghyRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Services\\DinghyRepository.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:40:27.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ITeamRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\ITeamRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\ITeamRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\ITeamRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Interfaces\\ITeamRepository.cs",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:39:58.019Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:27:39.032Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 25,
               "Title": "RemoveDinghy.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml",
@@ -890,8 +449,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:26:49.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:26:49.998Z"
             },
             {
               "$type": "Document",
@@ -903,8 +461,7 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:26:32.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:26:32.177Z"
             },
             {
               "$type": "Document",
@@ -916,25 +473,23 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:25:55.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:25:55.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:23:14.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:23:14.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Index.cshtml",
@@ -942,33 +497,22 @@
               "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:16:57.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:16:57.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MDinghy.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Motorized\\MDinghy.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Motorized\\MDinghy.cs",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Motorized\\MDinghy.cs",
               "RelativeToolTip": "HSLibrary\\Models\\Dinghy\\Motorized\\MDinghy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-=======
-              "DocumentIndex": 16,
-              "Title": "MemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\MemberRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Services\\MemberRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\MemberRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Services\\MemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:48:55.675Z"
+              "WhenOpened": "2024-12-11T08:50:28.226Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 40,
               "Title": "FuelType.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
@@ -977,8 +521,7 @@
               "RelativeToolTip": "HSLibrary\\Models\\Dinghy\\Motorized\\FuelType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:51:01.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:51:01.699Z"
             },
             {
               "$type": "Document",
@@ -990,8 +533,7 @@
               "RelativeToolTip": "HSLibrary\\Exceptions\\BookingOverlapException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:24:35.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T10:24:35.272Z"
             },
             {
               "$type": "Document",
@@ -1003,39 +545,22 @@
               "RelativeToolTip": "HSLibrary\\Exceptions\\WrongUserException.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T12:08:22.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T12:08:22.798Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
-=======
-              "DocumentIndex": 10,
-              "Title": "Participants.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Participants.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Participants.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Participants.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Participants.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:46:18.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Team.cs",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Team.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Team.cs",
               "RelativeToolTip": "HSLibrary\\Models\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:36:12.719Z"
+              "WhenOpened": "2024-12-09T09:37:04.87Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 51,
               "Title": "HSLibrary.csproj",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
@@ -1069,8 +594,7 @@
               "ViewState": "AgIAAEwAAAAAAAAAAAAQwEoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Data",
-              "WhenOpened": "2024-12-09T08:52:07.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:52:07.901Z"
             },
             {
               "$type": "Document",
@@ -1083,8 +607,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSConsoleApp\\IO",
-              "WhenOpened": "2024-12-09T08:51:31.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:51:31.044Z"
             },
             {
               "$type": "Document",
@@ -1097,8 +620,7 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSConsoleApp\\IO",
-              "WhenOpened": "2024-12-09T08:49:50.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:49:50.953Z"
             },
             {
               "$type": "Document",
@@ -1111,8 +633,7 @@
               "ViewState": "AgIAAOkAAAAAAAAAAAAAwCQBAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSConsoleApp\\IO",
-              "WhenOpened": "2024-12-09T08:48:48.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:48:48.941Z"
             },
             {
               "$type": "Document",
@@ -1124,8 +645,7 @@
               "RelativeToolTip": "HSConsoleApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T08:48:14.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:48:14.998Z"
             },
             {
               "$type": "Document",
@@ -1138,8 +658,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Exceptions",
-              "WhenOpened": "2024-12-09T08:42:03.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T08:42:03.401Z"
             },
             {
               "$type": "Document",
@@ -1151,8 +670,7 @@
               "RelativeToolTip": "HSLibrary\\Models\\Event.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAuwB0AAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T11:23:32.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T11:23:32.651Z"
             },
             {
               "$type": "Document",
@@ -1164,12 +682,11 @@
               "RelativeToolTip": "HSLibrary\\Interfaces\\IBookingRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T10:12:31.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T10:12:31.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Participants.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Participants.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Participants.cs",
@@ -1177,8 +694,7 @@
               "RelativeToolTip": "HSLibrary\\Models\\Participants.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAIwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T09:30:11.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:30:11.178Z"
             },
             {
               "$type": "Document",
@@ -1191,8 +707,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Interfaces",
-              "WhenOpened": "2024-12-06T09:25:29.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:25:29.952Z"
             },
             {
               "$type": "Document",
@@ -1204,30 +719,24 @@
               "RelativeToolTip": "HSLibrary\\Interfaces\\IBlogRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T09:21:04.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:21:04.697Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-=======
-              "DocumentIndex": 7,
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Title": "EventRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\EventRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\EventRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\EventRepository.cs",
               "RelativeToolTip": "HSLibrary\\Services\\EventRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADcAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
               "OverriddenGroupName": "HSLibrary\\Services",
-              "WhenOpened": "2024-12-06T09:12:08.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:12:08.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Dinghy.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\Dinghy.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Dinghy.cs",
@@ -1236,31 +745,23 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Models\\Dinghy",
-              "WhenOpened": "2024-12-06T08:52:35.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T08:52:35.238Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-=======
-              "WhenOpened": "2024-12-06T12:31:54.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Title": "TeamRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\TeamRepository.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Services\\TeamRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\TeamRepository.cs",
               "RelativeToolTip": "HSLibrary\\Services\\TeamRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:31:08.677Z"
+              "OverriddenGroupName": "HSLibrary\\Services",
+              "WhenOpened": "2024-12-06T09:09:29.822Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 37,
               "Title": "BlogRepository.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Services\\BlogRepository.cs",
@@ -1270,8 +771,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Services",
               "OverriddenToolTip": "HSLibrary/Services/BlogRepository.cs",
-              "WhenOpened": "2024-12-06T09:08:49.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:08:49.206Z"
             },
             {
               "$type": "Document",
@@ -1283,8 +783,7 @@
               "RelativeToolTip": "HSLibrary\\Services\\BookingRepository.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAA5wDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T09:08:23.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:08:23.517Z"
             },
             {
               "$type": "Document",
@@ -1297,8 +796,7 @@
               "ViewState": "AgIAAGoAAAAAAAAAAAAcwBQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Services",
-              "WhenOpened": "2024-12-06T09:07:58.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:07:58.625Z"
             },
             {
               "$type": "Document",
@@ -1310,12 +808,11 @@
               "RelativeToolTip": "HSLibrary\\Services\\DinghyRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAUwEkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T09:04:38.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T09:04:38.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Blog.cs",
@@ -1323,55 +820,23 @@
               "RelativeToolTip": "HSLibrary\\Models\\Blog.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T08:47:18.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T08:47:18.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-=======
-              "DocumentIndex": 17,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Services\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Services\\BookingRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Services\\BookingRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:31:03.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Event.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:30:57.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
+              "DocumentIndex": 10,
               "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Models\\Booking.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Booking.cs",
               "RelativeToolTip": "HSLibrary\\Models\\Booking.cs",
-<<<<<<< HEAD
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T12:30:53.897Z"
+              "OverriddenGroupName": "HSLibrary\\Models",
+              "WhenOpened": "2024-12-06T08:47:16.285Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 41,
               "Title": "DinghyModel.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\DinghyModel.cs",
@@ -1379,22 +844,9 @@
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Dinghy\\DinghyModel.cs",
               "RelativeToolTip": "HSLibrary\\Models\\Dinghy\\DinghyModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-=======
-              "DocumentIndex": 18,
-              "Title": "IMemberRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Interfaces\\IMemberRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-<<<<<<< HEAD
->>>>>>> j
->>>>>>> b5c0c857797d1b0492ea608dc1cfab4b3907837c
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Models\\Dinghy",
-              "WhenOpened": "2024-12-06T08:46:53.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T08:46:53.481Z"
             },
             {
               "$type": "Document",
@@ -1406,48 +858,22 @@
               "RelativeToolTip": "HSLibrary\\Models\\Dinghy\\RepairLogEntry.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T08:46:42.229Z",
-              "EditorCaption": ""
-=======
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:22:30Z"
->>>>>>> j
+              "WhenOpened": "2024-12-06T08:46:42.229Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 5,
-=======
-              "DocumentIndex": 19,
-<<<<<<< HEAD
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Program.cs",
               "RelativeDocumentMoniker": "HSLibrary\\Program.cs",
               "ToolTip": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Program.cs",
               "RelativeToolTip": "HSLibrary\\Program.cs",
-<<<<<<< HEAD
               "ViewState": "AgIAAHIAAAAAAAAAAAAQwIUAAABUAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAIcAAAAAAAAAAAAQwIUAAABUAAAAAAAAAA==",
-=======
-              "DocumentIndex": 14,
->>>>>>> b5c0c857797d1b0492ea608dc1cfab4b3907837c
-=======
->>>>>>> j
-              "Title": "IBlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "RelativeToolTip": "HSLibrary\\Interfaces\\IBlogRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:15:08.574Z"
+              "WhenOpened": "2024-12-06T08:27:20.275Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 31,
               "Title": "Member.cs",
               "DocumentMoniker": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\Models\\Member.cs",
@@ -1457,48 +883,7 @@
               "ViewState": "AgIAABsAAAAAAAAAAAAUwCsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "OverriddenGroupName": "HSLibrary\\Models",
-              "WhenOpened": "2024-12-02T11:37:31.531Z",
-              "EditorCaption": ""
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "DocumentIndex": 4,
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Member.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T11:37:31.531Z"
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 24,
-=======
-<<<<<<< HEAD
-              "DocumentIndex": 20,
-=======
-              "DocumentIndex": 3,
->>>>>>> j
->>>>>>> j
-=======
-              "DocumentIndex": 8,
->>>>>>> j
-              "Title": "Member.cs",
-              "DocumentMoniker": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Member.cs",
-              "RelativeDocumentMoniker": "HSLibrary\\Models\\Member.cs",
-              "ToolTip": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\Models\\Member.cs",
-              "RelativeToolTip": "HSLibrary\\Models\\Member.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T11:37:31.531Z"
-<<<<<<< HEAD
->>>>>>> j
->>>>>>> b5c0c857797d1b0492ea608dc1cfab4b3907837c
->>>>>>> dc1590388d65ec69692da9df4b9272b0ded32239
-=======
->>>>>>> j
->>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
             }
           ]
         }
