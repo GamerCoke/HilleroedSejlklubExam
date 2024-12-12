@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Xl+V8RuumBU=",
+=======
+  "dgSpecHash": "Wza+vuj/3Vw=",
+>>>>>>> j
   "success": true,
   "projectFilePath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
   "expectedPackageFiles": [],
