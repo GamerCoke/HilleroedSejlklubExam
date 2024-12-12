@@ -42,21 +42,21 @@ namespace HilleroedSejlklubExam.Pages.Members
                 {
                     if (Member.MemberImage != null && Member.MemberImage != "default.jpeg")
                     {
-                        string filePath = Path.Combine(webHostEnvironment.WebRootPath, "/images/MembererImages", Member.MemberImage);
+                        string filePath = Path.Combine(webHostEnvironment.WebRootPath, "/Images/MemImages", Member.MemberImage);
                         System.IO.File.Delete(filePath);
                     }
 
                     Member.MemberImage = ProcessUploadedFile();
                 }
                 _repo.Add(Member);
-                return RedirectToPage("ShowMembers");
+                return RedirectToPage("/Members/ShowMembers");
             }
             private string ProcessUploadedFile()
             {
                 string uniqueFileName = null;
                 if (Photo != null)
                 {
-                    string uploadsFolder = Path.Combine(webHostEnvironment.WebRootPath, "images/MemberImages");
+                    string uploadsFolder = Path.Combine(webHostEnvironment.WebRootPath, "Images/MemImages");
                     uniqueFileName = Guid.NewGuid().ToString() + "_" + Photo.FileName;
                     string filePath = Path.Combine(uploadsFolder, uniqueFileName);
                     using (var fileStream = new FileStream(filePath, FileMode.Create))

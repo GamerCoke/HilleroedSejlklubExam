@@ -25,7 +25,7 @@ namespace HilleroedSejlklubExam.Pages.Members
         public IActionResult OnPost()
         {
             _repo.Remove(Member.Id);
-            return RedirectToPage("ShowCustomers");
+            return RedirectToPage("/Members/ShowMembers");
         }
     }
 }
