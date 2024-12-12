@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
+<<<<<<< HEAD
+      "HilleroedSejlklub/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HilleroedSejlklub.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HilleroedSejlklub.dll": {}
+        }
+      },
+=======
+>>>>>>> j
       "HSLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -15,6 +28,14 @@
     }
   },
   "libraries": {
+<<<<<<< HEAD
+    "HilleroedSejlklub/1.0.0": {
+      "type": "project",
+      "path": "../HilleroedSejlklub/HilleroedSejlklub.csproj",
+      "msbuildProject": "../HilleroedSejlklub/HilleroedSejlklub.csproj"
+    },
+=======
+>>>>>>> j
     "HSLibrary/1.0.0": {
       "type": "project",
       "path": "../HSLibrary/HSLibrary.csproj",
@@ -23,28 +44,49 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+<<<<<<< HEAD
+      "HSLibrary >= 1.0.0",
+      "HilleroedSejlklub >= 1.0.0"
+=======
       "HSLibrary >= 1.0.0"
+>>>>>>> j
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Bi-Kuben\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\Malthe\\.nuget\\packages\\": {}
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
       "projectName": "HilleroedSejlklubExam",
       "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
       "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+      "projectName": "HilleroedSejlklubExam",
+      "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+      "packagesPath": "C:\\Users\\Malthe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Bi-Kuben\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+        "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,8 +100,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj": {
               "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj"
+=======
+<<<<<<< HEAD
+            "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {
+              "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj"
+            },
+            "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
+              "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj"
+=======
+            "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
+              "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
+>>>>>>> j
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
             }
           }
         }
@@ -106,7 +161,11 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
+<<<<<<< HEAD
       "message": "Problem reading the cache file C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+=======
+      "message": "Problem reading the cache file C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
     }
   ]
 }

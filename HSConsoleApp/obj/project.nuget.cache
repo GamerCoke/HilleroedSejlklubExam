@@ -1,8 +1,21 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "k+z6zAljnIM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj",
+=======
+  "dgSpecHash": "hRZpNC0OlRQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

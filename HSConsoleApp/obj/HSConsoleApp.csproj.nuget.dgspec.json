@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj": {}
   },
   "projects": {
@@ -12,13 +13,30 @@
         "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\HSConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSConsoleApp\\obj\\",
+=======
+    "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
+        "projectName": "HSConsoleApp",
+        "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Malthe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSConsoleApp\\obj\\",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Bi-Kuben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +50,13 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj": {
                 "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj"
+=======
+              "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
+                "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj"
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
               }
             }
           }
@@ -72,6 +95,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -80,13 +104,27 @@
         "projectPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\HSLibrary.csproj",
         "packagesPath": "C:\\Users\\Bi-Kuben\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HSLibrary\\obj\\",
+=======
+    "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
+        "projectName": "HSLibrary",
+        "projectPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
+        "packagesPath": "C:\\Users\\Malthe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\obj\\",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\Bi-Kuben\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+          "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 582bf631ebbc1aff1f7ead12154f7a9dda9a93bb
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

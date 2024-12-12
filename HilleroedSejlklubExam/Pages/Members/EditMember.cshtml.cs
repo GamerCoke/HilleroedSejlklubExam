@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace HilleroedSejlklubExam.Pages.Bookings
+namespace HilleroedSejlklubExam.Pages.Member
 {
-    public class EditBookingModel : PageModel
+    public class EditMemberModel : PageModel
     {
         public void OnGet()
         {
