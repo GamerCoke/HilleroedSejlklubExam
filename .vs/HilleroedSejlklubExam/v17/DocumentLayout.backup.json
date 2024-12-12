@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -56,6 +57,70 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\malthe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\bookings\\showbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\bookings\\showbooking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\members\\showmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\members\\showmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\showspecificdinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\showspecificdinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\data\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\data\\mockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hslibrary\\models\\dinghy\\dinghy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4F45C1-5A41-4D25-A84D-25B3F16A48A1}|HSLibrary\\HSLibrary.csproj|solutionrelative:hslibrary\\models\\dinghy\\dinghy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\showspecificdinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\showspecificdinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\showdinghies.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\showdinghies.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\showdinghies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\showdinghies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\removedinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\removedinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\removedinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\removedinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\editdinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\editdinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\editdinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\editdinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\adddinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\adddinghy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\dinghies\\adddinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\dinghies\\adddinghy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|c:\\users\\kaspe\\source\\repos\\hilleroedsejlklubexam\\hilleroedsejlklubexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3816E6CF-3115-4496-9963-A6179E473B1F}|HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj|solutionrelative:hilleroedsejlklubexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
     }
   ],
   "DocumentGroupContainers": [
@@ -65,11 +130,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 1,
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "HSConsoleApp.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSConsoleApp\\obj\\HSConsoleApp.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "HSConsoleApp\\obj\\HSConsoleApp.csproj.nuget.g.props",
@@ -78,10 +148,21 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-12T13:07:10.009Z",
+=======
+              "Title": "ShowMembers.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Members\\ShowMembers.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Members\\ShowMembers.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Members\\ShowMembers.cshtml*",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Members\\ShowMembers.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T12:58:55.893Z",
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "HilleroedSejlklubExam.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\HilleroedSejlklubExam.csproj.nuget.g.props",
@@ -91,10 +172,39 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-12T13:06:23.724Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "ShowBooking.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml*",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Bookings\\ShowBooking.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T12:58:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockData.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Data\\MockData.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Data\\MockData.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Data\\MockData.cs",
+              "RelativeToolTip": "HSLibrary\\Data\\MockData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:42:35.03Z",
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "HilleroedSejlklub.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\obj\\HilleroedSejlklub.csproj.nuget.g.props",
@@ -104,10 +214,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-12T13:05:58.33Z",
+=======
+              "DocumentIndex": 4,
+              "Title": "Dinghy.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Dinghy\\Dinghy.cs",
+              "RelativeDocumentMoniker": "HSLibrary\\Models\\Dinghy\\Dinghy.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\Models\\Dinghy\\Dinghy.cs",
+              "RelativeToolTip": "HSLibrary\\Models\\Dinghy\\Dinghy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:41:35.163Z",
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -117,10 +239,48 @@
               "ViewState": "AgIAABABAAAAAAAAAAAgwDgBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-12T13:04:40.68Z",
+=======
+              "DocumentIndex": 2,
+              "Title": "ShowSpecificDinghy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T12:56:17.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowSpecificDinghy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml.cs",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml.cs",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowSpecificDinghy.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:14:16.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShowDinghies.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:56:06.547Z",
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "HSLibrary.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\obj\\HSLibrary.csproj.nuget.g.props",
@@ -130,6 +290,95 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-12T13:04:09.102Z",
+=======
+              "DocumentIndex": 6,
+              "Title": "ShowDinghies.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml.cs",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml.cs",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\ShowDinghies.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:54:31.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RemoveDinghy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:57:27.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RemoveDinghy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml.cs",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml.cs",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\RemoveDinghy.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:54:30.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditDinghy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:57:29.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditDinghy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml.cs",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml.cs",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\EditDinghy.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:54:27.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddDinghy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:57:32.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddDinghy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml.cs",
+              "RelativeDocumentMoniker": "HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml.cs",
+              "ToolTip": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml.cs",
+              "RelativeToolTip": "HilleroedSejlklubExam\\Pages\\Dinghies\\AddDinghy.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:52:56.879Z",
+>>>>>>> 1dd468be58036fdbc09368c86dfe5eacd680e12f
               "EditorCaption": ""
             },
             {
