@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
   },
   "projects": {
@@ -29,6 +30,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+        "projectName": "HilleroedSejlklubExam",
+        "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> k
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,11 +61,16 @@
             "targetAlias": "net8.0",
             "projectReferences": {
 <<<<<<< HEAD
+<<<<<<< HEAD
               "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
                 "projectPath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj"
 =======
               "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
                 "projectPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
+>>>>>>> k
+=======
+              "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
+                "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
 >>>>>>> k
               }
             }
@@ -92,6 +114,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -113,6 +136,19 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+        "projectName": "HSLibrary",
+        "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
+        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> k
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

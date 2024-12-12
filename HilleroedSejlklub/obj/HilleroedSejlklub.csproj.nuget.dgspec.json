@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {}
   },
   "projects": {
@@ -29,6 +30,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+        "projectName": "HilleroedSejlklub",
+        "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> k
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

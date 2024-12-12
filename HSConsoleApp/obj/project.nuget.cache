@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "hQnfX87Z2Ho=",
   "success": true,
   "projectFilePath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
@@ -8,6 +9,11 @@
   "dgSpecHash": "99266NiBVys=",
   "success": true,
   "projectFilePath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSConsoleApp\\HSConsoleApp.csproj",
+>>>>>>> k
+=======
+  "dgSpecHash": "LGWoxgbrXPQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSConsoleApp\\HSConsoleApp.csproj",
 >>>>>>> k
   "expectedPackageFiles": [],
   "logs": []

@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "rD3ct+iNxPk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
@@ -8,6 +9,11 @@
   "dgSpecHash": "hNd6XX27XRc=",
   "success": true,
   "projectFilePath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+>>>>>>> k
+=======
+  "dgSpecHash": "Wza+vuj/3Vw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
 >>>>>>> k
   "expectedPackageFiles": [],
   "logs": []

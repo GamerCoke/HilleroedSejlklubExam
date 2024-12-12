@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.json
 C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.deps.json
@@ -36,3 +37,96 @@ C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Deb
 C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
 C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.genruntimeconfig.cache
 C:\Users\Malthe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\ref\HilleroedSejlklubExam.dll
+=======
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.staticwebassets.runtime.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.exe
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.deps.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.runtimeconfig.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.AssemblyInfoInputs.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.AssemblyInfo.cs
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.CoreCompileInputs.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.RazorAssemblyInfo.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.RazorAssemblyInfo.cs
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.sourcelink.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.HilleroedSejlklubExam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.build.HilleroedSejlklubExam.props
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HilleroedSejlklubExam.props
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HilleroedSejlklubExam.props
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\bundle\HilleroedSejlklubExam.styles.css
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\projectbundle\HilleroedSejlklubExam.bundle.scp.css
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\refint\HilleroedSejlklubExam.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.genruntimeconfig.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\ref\HilleroedSejlklubExam.dll
+<<<<<<< HEAD
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.staticwebassets.runtime.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.exe
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.deps.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.runtimeconfig.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.pdb
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.AssemblyReference.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.AssemblyInfoInputs.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.AssemblyInfo.cs
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.RazorAssemblyInfo.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.RazorAssemblyInfo.cs
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.sourcelink.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.HilleroedSejlklubExam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.build.HilleroedSejlklubExam.props
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HilleroedSejlklubExam.props
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HilleroedSejlklubExam.props
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\bundle\HilleroedSejlklubExam.styles.css
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\projectbundle\HilleroedSejlklubExam.bundle.scp.css
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\Hilleroe.91BB9616.Up2Date
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\refint\HilleroedSejlklubExam.dll
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.genruntimeconfig.cache
+C:\Users\kaspe\source\repos\HilleroedSejlklubExam\HilleroedSejlklubExam\obj\Debug\net8.0\ref\HilleroedSejlklubExam.dll
+=======
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.AssemblyReference.cache
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\Bi-Kuben\Desktop\Zealand\1. Semester\Programmering\Exam\HilleroedSejlklubExam\obj\Debug\net8.0\Hilleroe.91BB9616.Up2Date
+>>>>>>> 21ad11a5980529fd246fb6d2e7660f64a9d0091b
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.AssemblyReference.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.AssemblyInfoInputs.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.AssemblyInfo.cs
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.csproj.CoreCompileInputs.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.RazorAssemblyInfo.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.RazorAssemblyInfo.cs
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.sourcelink.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\refint\HilleroedSejlklubExam.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
+>>>>>>> k
