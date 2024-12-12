@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ANy3/H+J9pM=",
+=======
+  "dgSpecHash": "S2dNAQvQGTE=",
+>>>>>>> d2eb49082d260b236ecd8797b79692c1c06571e5
   "success": true,
-  "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\Exam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
+  "projectFilePath": "C:\\Users\\kaspe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
