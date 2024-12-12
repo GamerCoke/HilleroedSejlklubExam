@@ -50,26 +50,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ3NcU2hvd0Jvb2tpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/AddDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcQWRkRGluZ2h5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/EditDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcRWRpdERpbmdoeS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/RemoveDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcUmVtb3ZlRGluZ2h5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghies.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoaWVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/kaspe/source/repos/HilleroedSejlklubExam/HilleroedSejlklubExam/Pages/Dinghies/ShowSpecificDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd1NwZWNpZmljRGluZ2h5LmNzaHRtbA==
-=======
 [C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/AddDinghy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcQWRkRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -82,9 +62,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcUmVtb3ZlRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoeS5jc2h0bWw=
->>>>>>> 21ad11a5980529fd246fb6d2e7660f64a9d0091b
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/ShowDinghies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd0RpbmdoaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Dinghies/ShowSpecificDinghy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGluZ2hpZXNcU2hvd1NwZWNpZmljRGluZ2h5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bi-Kuben/Desktop/Zealand/1. Semester/Programmering/Exam/HilleroedSejlklubExam/Pages/Error.cshtml]
