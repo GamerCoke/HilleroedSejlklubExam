@@ -16,10 +16,12 @@
     <thead>
         <tr>
             <th>ID</th>
-            <th>Name</th>
+            <th>Navn</th>
             <th>Email</th>
-            <th>Phone</th>
-            <th>Image</th>
+            <th>Fødselsdato</th>
+            <th>Tlf.Nr.</th>
+            <th>Har en nøgle</th>
+            <th>Billede</th>
           
         </tr>
     </thead>
@@ -31,9 +33,12 @@
             <tr>
                 <td>@member.Id</td>
                 <td>@member.Name</td>
-                <td>@member.Phone</td>
+                <td>@member.Email</td>
                 <td>@member.Birthday</td>
+                <td>@member.Phone</td>
                 <td>@member.HasKey</td>
+                <td>@member.MemberImage</td>
+                
                 @*Billede: For hver kunde vises et billede (hvis der er et tilknyttet billede) 
                  Dette billede vises som en rund figur med en størrelse på 80x70 pixels.
                 <td>

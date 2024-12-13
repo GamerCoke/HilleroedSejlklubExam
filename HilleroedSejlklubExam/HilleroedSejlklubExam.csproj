@@ -9,7 +9,7 @@
   <ItemGroup>
     <Folder Include="Pages\Members\" />
     <Folder Include="Pages\Teams\" />
-    <Folder Include="wwwroot\Images\" />
+    <Folder Include="wwwroot\Images\MemImages\" />
   </ItemGroup>
 
   <ItemGroup>
