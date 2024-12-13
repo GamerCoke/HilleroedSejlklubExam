@@ -12,9 +12,10 @@ namespace HSLibrary.Models
         private static int _count = 0;
         private string _firstName;
         private string _lastName;
-       
-        
 
+
+        public string FirstName { get { return _firstName; } private set { _firstName = value; } }
+        public string LastName { get { return _lastName; } private set{ _lastName = value;} }
         public int Id { get; }
         public string Name { get { return _firstName + " " + _lastName; } }
         public string Email { get; }
@@ -30,7 +31,13 @@ namespace HSLibrary.Models
                 return (int)((DateTime.Now - Birthday.ToDateTime(new TimeOnly(0, 0, 0, 0, 0))).TotalDays / 365.25d);
             }
         }
-        public string MemberImage { get; set; } = "default.jpg"; 
+        public string MemberImage { get; set; } = "default.jpg";
+
+        public Member() //default
+        {
+            MemberImage = "default.jpg";
+        }
+
         public Member(string fistName, string lastName, string email, DateOnly birthday, string phone)
         {
             MemberImage = "default.jpg";
@@ -44,10 +51,11 @@ namespace HSLibrary.Models
             IsAdmin = false;
             Phone = phone;
         }
+        
 
         public void BuyKey()
         {
-            HasKey = true;
+            HasKey = true;  
         }
         public override string ToString()
         {
