@@ -8,6 +8,7 @@ namespace HilleroedSejlklubExam.Pages.Members
     public class DeleteMemberModel : PageModel
     {
         private IMemberRepository _repo;
+        private int _id;
 
         [BindProperty]
         public Member Member { get; set; }
@@ -17,14 +18,15 @@ namespace HilleroedSejlklubExam.Pages.Members
             _repo = memberRepository;
         }
 
-        public void OnGet(int deleteid)
+        public void OnGet(int deleteId)
         {
-            Member = _repo.Get(deleteid);
+            Member = _repo.Get(deleteId);
+            _id=deleteId;
         }
 
-        public IActionResult OnPost()
+        public IActionResult OnPost(int deleteID)
         {
-            _repo.Remove(Member.Id);
+            _repo.Remove(deleteID);
             return RedirectToPage("/Members/ShowMembers");
         }
     }
