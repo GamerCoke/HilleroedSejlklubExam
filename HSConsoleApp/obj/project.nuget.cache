@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "hQnfX87Z2Ho=",
   "success": true,
   "projectFilePath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSConsoleApp\\HSConsoleApp.csproj",
+=======
+  "dgSpecHash": "99266NiBVys=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSConsoleApp\\HSConsoleApp.csproj",
+>>>>>>> k
   "expectedPackageFiles": [],
   "logs": []
 }
