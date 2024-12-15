@@ -1,20 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "dgSpecHash": "rD3ct+iNxPk=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-=======
-  "dgSpecHash": "hNd6XX27XRc=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
->>>>>>> k
-=======
   "dgSpecHash": "Wza+vuj/3Vw=",
   "success": true,
   "projectFilePath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
->>>>>>> k
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

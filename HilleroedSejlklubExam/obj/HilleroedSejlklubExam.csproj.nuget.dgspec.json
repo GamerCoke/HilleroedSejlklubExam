@@ -1,36 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-        "projectName": "HilleroedSejlklubExam",
-        "projectPath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-        "packagesPath": "C:\\Users\\Malthe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\",
-=======
-    "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-        "projectName": "HilleroedSejlklubExam",
-        "projectPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj",
-        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\",
->>>>>>> k
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
     "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\HilleroedSejlklubExam.csproj": {}
   },
   "projects": {
@@ -45,7 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> k
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,18 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
-                "projectPath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj"
-=======
-              "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
-                "projectPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
->>>>>>> k
-=======
               "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
                 "projectPath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj"
->>>>>>> k
               }
             }
           }
@@ -113,30 +72,6 @@
         }
       }
     },
-<<<<<<< HEAD
-<<<<<<< HEAD
-    "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
-        "projectName": "HSLibrary",
-        "projectPath": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HSLibrary\\HSLibrary.csproj",
-        "packagesPath": "C:\\Users\\Malthe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Malthe\\Source\\Repos\\HilleroedSejlklubExam\\HSLibrary\\obj\\",
-=======
-    "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
-        "projectName": "HSLibrary",
-        "projectPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj",
-        "packagesPath": "C:\\Users\\sofie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HSLibrary\\obj\\",
->>>>>>> k
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Malthe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
     "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSLibrary\\HSLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -148,7 +83,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofie\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> k
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

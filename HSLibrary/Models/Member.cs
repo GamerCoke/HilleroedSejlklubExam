@@ -32,16 +32,9 @@ namespace HSLibrary.Models
                 return (int)((DateTime.Now - Birthday.ToDateTime(new TimeOnly(0, 0, 0, 0, 0))).TotalDays / 365.25d);
             }
         }
-<<<<<<< HEAD
-        public string MemberImage { get; set; } = "default.jpg";
-
-        public Member() //default
-        {
-=======
         public Member()
         {
             Id = _count++;
->>>>>>> k
             MemberImage = "default.jpg";
         }
 
