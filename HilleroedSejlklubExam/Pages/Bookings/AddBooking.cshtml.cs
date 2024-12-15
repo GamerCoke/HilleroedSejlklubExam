@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+=======
+>>>>>>> k
 using HSLibrary.Interfaces;
 using HSLibrary.Models.Dinghy;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HilleroedSejlklubExam.Pages.Bookings
 {
@@ -22,4 +27,10 @@ namespace HilleroedSejlklubExam.Pages.Bookings
         {
         }
     }
+<<<<<<< HEAD
 }
+=======
+
+}
+
+>>>>>>> k

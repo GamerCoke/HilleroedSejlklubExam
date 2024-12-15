@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> k
 using HSLibrary.Interfaces;
 using HSLibrary.Models.Dinghy;
 using HSLibrary.Models.Dinghy.Motorized;
@@ -13,8 +17,11 @@ namespace HilleroedSejlklubExam.Pages.Dinghies
         {
             _dinghyRepository = dinghyRepository;
         }
+<<<<<<< HEAD
         public void OnGet()
         {
         }
+=======
+>>>>>>> k
     }
 }

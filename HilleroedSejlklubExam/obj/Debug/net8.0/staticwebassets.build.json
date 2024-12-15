@@ -1,9 +1,13 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "ST28o6etGRwsYAIi084MI+HHMa/eni/VZVPp6ugDZVQ=",
 =======
   "Hash": "UWUW7ES0wqhP2RVhDw64tA9x9DFzF6d61fhKtNIFqTM=",
+>>>>>>> k
+=======
+  "Hash": "tPQ5HlrO40xGpmwMPObTA8eHJ8LWY+DdwA8p1zTiATc=",
 >>>>>>> k
   "Source": "HilleroedSejlklubExam",
   "BasePath": "_content/HilleroedSejlklubExam",
@@ -15,9 +19,13 @@
       "Name": "HilleroedSejlklubExam\\wwwroot",
       "Source": "HilleroedSejlklubExam",
 <<<<<<< HEAD
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\",
 =======
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "Pattern": "**"
@@ -25,6 +33,7 @@
   ],
   "Assets": [
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HilleroedSejlklubExam.styles.css",
       "SourceId": "HilleroedSejlklubExam",
@@ -35,6 +44,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HilleroedSejlklubExam.styles.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "HilleroedSejlklubExam.styles.css",
@@ -48,6 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HilleroedSejlklubExam.styles.css"
     },
@@ -65,6 +81,15 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
 >>>>>>> k
+=======
+      "OriginalItemSpec": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HilleroedSejlklubExam.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HilleroedSejlklubExam.bundle.scp.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "HilleroedSejlklubExam.bundle.scp.css",
       "AssetKind": "All",
@@ -77,6 +102,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HilleroedSejlklubExam.bundle.scp.css"
     },
@@ -94,6 +120,15 @@
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
+=======
+      "OriginalItemSpec": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HilleroedSejlklubExam.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\css\\site.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -110,6 +145,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\favicon.ico",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -119,6 +155,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\favicon.ico",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "favicon.ico",
@@ -136,6 +178,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\js\\site.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -145,6 +188,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\js\\site.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "js/site.js",
@@ -162,6 +211,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -171,6 +221,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
@@ -188,6 +244,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -197,6 +254,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
@@ -214,6 +277,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -223,6 +287,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
@@ -240,6 +310,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -249,6 +320,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
@@ -266,6 +343,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -275,6 +353,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
@@ -292,6 +376,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -301,6 +386,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
@@ -318,6 +409,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -327,6 +419,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
@@ -344,6 +442,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -353,6 +452,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
@@ -370,6 +475,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -379,6 +485,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
@@ -396,6 +508,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -405,6 +518,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
@@ -422,6 +541,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -431,6 +551,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
@@ -448,6 +574,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -457,6 +584,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
@@ -474,6 +607,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -483,6 +617,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
@@ -500,6 +640,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -509,6 +650,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
@@ -526,6 +673,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -535,6 +683,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
@@ -552,6 +706,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -561,6 +716,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
@@ -578,6 +739,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -587,6 +749,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
@@ -604,6 +772,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -613,6 +782,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
@@ -630,6 +805,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -639,6 +815,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
@@ -656,6 +838,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -665,6 +848,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
@@ -682,6 +871,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -691,6 +881,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
@@ -708,6 +904,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -717,6 +914,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
@@ -734,6 +937,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -743,6 +947,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
@@ -760,6 +970,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -769,6 +980,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
@@ -786,6 +1003,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -795,6 +1013,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
@@ -812,6 +1036,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -821,6 +1046,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
@@ -838,6 +1069,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -847,6 +1079,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
@@ -864,6 +1102,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -873,6 +1112,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
@@ -890,6 +1135,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -899,6 +1145,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
@@ -916,6 +1168,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -925,6 +1178,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
@@ -942,6 +1201,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -951,6 +1211,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
@@ -968,6 +1234,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -977,6 +1244,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
@@ -994,6 +1267,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1003,6 +1277,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
@@ -1020,6 +1300,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1029,6 +1310,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
@@ -1046,6 +1333,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1055,6 +1343,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
@@ -1072,6 +1366,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1081,6 +1376,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
@@ -1098,6 +1399,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1107,6 +1409,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
@@ -1124,6 +1432,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1133,6 +1442,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
@@ -1150,6 +1465,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1159,6 +1475,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
@@ -1176,6 +1498,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1185,6 +1508,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
@@ -1202,6 +1531,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1211,6 +1541,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
@@ -1228,6 +1564,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1237,6 +1574,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
@@ -1254,6 +1597,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1263,6 +1607,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
@@ -1280,6 +1630,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1289,6 +1640,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
@@ -1306,6 +1663,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1315,6 +1673,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/bootstrap/LICENSE",
@@ -1332,6 +1696,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1341,6 +1706,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery/dist/jquery.js",
@@ -1358,6 +1729,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1367,6 +1739,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
@@ -1384,6 +1762,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1393,6 +1772,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
@@ -1410,6 +1795,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1419,6 +1805,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery/LICENSE.txt",
@@ -1436,6 +1828,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1445,6 +1838,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
@@ -1462,6 +1861,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1471,6 +1871,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
@@ -1488,6 +1894,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1497,6 +1904,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
@@ -1514,6 +1927,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1523,6 +1937,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
@@ -1540,6 +1960,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1549,6 +1970,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
@@ -1566,6 +1993,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1575,6 +2003,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
@@ -1592,6 +2026,7 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Identity": "C:\\Users\\Malthe\\source\\repos\\HilleroedSejlklubExam\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
@@ -1601,6 +2036,12 @@
       "SourceId": "HilleroedSejlklubExam",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\sofie\\source\\repos\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
+>>>>>>> k
+=======
+      "Identity": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "HilleroedSejlklubExam",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklubExam\\wwwroot\\",
 >>>>>>> k
       "BasePath": "_content/HilleroedSejlklubExam",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",

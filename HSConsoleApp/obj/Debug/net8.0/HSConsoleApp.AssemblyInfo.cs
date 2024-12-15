@@ -15,9 +15,13 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c3a715c6ab2f432c743bfa46905ae424df86ca8")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0042ae688ed3fbb9f422624ea047372626e9446c")]
+>>>>>>> k
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096e5355c19432b8eec6616ff45b3d82fb0c255f")]
 >>>>>>> k
 [assembly: System.Reflection.AssemblyProductAttribute("HSConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HSConsoleApp")]

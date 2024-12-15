@@ -24,6 +24,7 @@ namespace HSLibrary.Models
         public bool IsAdmin { get; set; }
         public string Phone { get; }
         public bool HasKey { get; set; }
+        public string MemberImage { get; set; } = "default.jpg";
         public int Age
         {
             get
@@ -31,10 +32,16 @@ namespace HSLibrary.Models
                 return (int)((DateTime.Now - Birthday.ToDateTime(new TimeOnly(0, 0, 0, 0, 0))).TotalDays / 365.25d);
             }
         }
+<<<<<<< HEAD
         public string MemberImage { get; set; } = "default.jpg";
 
         public Member() //default
         {
+=======
+        public Member()
+        {
+            Id = _count++;
+>>>>>>> k
             MemberImage = "default.jpg";
         }
 
@@ -50,6 +57,7 @@ namespace HSLibrary.Models
             Birthday = birthday;
             IsAdmin = false;
             Phone = phone;
+            MemberImage = "default.jpg";
         }
         
 

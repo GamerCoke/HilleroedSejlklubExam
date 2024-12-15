@@ -129,4 +129,33 @@ C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSe
 C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.dll
 C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\refint\HilleroedSejlklubExam.dll
 C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.pdb
+<<<<<<< HEAD
+>>>>>>> k
+=======
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\appsettings.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.deps.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.runtimeconfig.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.exe
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.staticwebassets.runtime.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.exe
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.deps.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.runtimeconfig.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HilleroedSejlklubExam.pdb
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.dll
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\bin\Debug\net8.0\HSLibrary.pdb
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.HilleroedSejlklubExam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.build.HilleroedSejlklubExam.props
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HilleroedSejlklubExam.props
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HilleroedSejlklubExam.props
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\bundle\HilleroedSejlklubExam.styles.css
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\scopedcss\projectbundle\HilleroedSejlklubExam.bundle.scp.css
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\Hilleroe.91BB9616.Up2Date
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\HilleroedSejlklubExam.genruntimeconfig.cache
+C:\Users\sofie\OneDrive\Dokumenter\Studie Zealand\Eksamensprojekt 24\HilleroedSejlklubExam1\HilleroedSejlklubExam\obj\Debug\net8.0\ref\HilleroedSejlklubExam.dll
 >>>>>>> k
