@@ -13,6 +13,7 @@ namespace HilleroedSejlklubExam.Pages.Dinghies
         {
             _dinghyRepository = dinghyRepository;
         }
+
         public void OnGet()
         {
         }

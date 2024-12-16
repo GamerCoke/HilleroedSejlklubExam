@@ -4,7 +4,11 @@
     ViewData["Title"] = "ShowMembers";
 }
 
+<<<<<<< HEAD
 <h1>Antal klubmedlemmer  @Model.MemberList.Count </h1>
+=======
+<h1>Antal klubmedlemmer  @Model.MemberCount </h1>
+>>>>>>> k
 
 @* Skaber et link, som sender brugeren videre til siden "AddMember".*@
  <p>
@@ -47,8 +51,8 @@
 
                 @*Rediger og Slet Links: For hver medlem er der links til at redigere og slette medlemmet. 
                 Linksene bruger asp-page til at navigere til de relevante sider *@
-                <td><a asp-page="EditMember" asp-route-id="@member.Id">Rediger medlem</a></td>
-                <td><a asp-page="DeleteMember" asp-route-deleteMobile="@member.Id">Fjern medlem</a></td>
+                <td><a asp-page="EditMember" asp-route-Id="@member.Id">Rediger medlem</a></td>
+                <td><a asp-page="DeleteMember" asp-route-deleteId="@member.Id">Fjern medlem</a></td>
             </tr>
         }
     </tbody>

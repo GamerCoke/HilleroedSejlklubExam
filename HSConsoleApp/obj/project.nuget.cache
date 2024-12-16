@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\ExamSecond\\HSConsoleApp\\HSConsoleApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HSConsoleApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

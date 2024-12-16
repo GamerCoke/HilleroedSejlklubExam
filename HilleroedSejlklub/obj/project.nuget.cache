@@ -1,8 +1,21 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wN5XI6Hv9ME=",
   "success": true,
   "projectFilePath": "C:\\Users\\Bi-Kuben\\Desktop\\Zealand\\1. Semester\\Programmering\\ExamSecond\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+=======
+  "dgSpecHash": "U+/B3Aigy5s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\HilleroedSejlklub.csproj",
+>>>>>>> e4b57b32986c3fff8cf84e92b7663a2342466958
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\sofie\\OneDrive\\Dokumenter\\Studie Zealand\\Eksamensprojekt 24\\HilleroedSejlklubExam1\\HilleroedSejlklub\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

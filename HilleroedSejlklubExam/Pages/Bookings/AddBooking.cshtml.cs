@@ -1,7 +1,7 @@
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
 using HSLibrary.Interfaces;
 using HSLibrary.Models.Dinghy;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HilleroedSejlklubExam.Pages.Bookings
 {

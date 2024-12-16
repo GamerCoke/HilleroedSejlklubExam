@@ -11,6 +11,8 @@ namespace HilleroedSejlklubExam.Pages.Members
 
         public List<Member> MemberList { get; private set; }
 
+        public int MemberCount => _memberRepository.Count;
+
         public ShowMembersModel(IMemberRepository memberRepository)
         {
             _memberRepository = memberRepository;

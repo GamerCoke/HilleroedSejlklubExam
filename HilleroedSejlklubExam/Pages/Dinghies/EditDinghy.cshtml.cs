@@ -16,5 +16,6 @@ namespace HilleroedSejlklubExam.Pages.Dinghies
         public void OnGet()
         {
         }
+
     }
 }

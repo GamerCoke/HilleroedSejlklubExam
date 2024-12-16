@@ -9,7 +9,7 @@ namespace HilleroedSejlklubExam.Pages.Dinghies
     public class ShowDinghyModel : PageModel
     {
         IDinghyRepository _dinghyRepository;
-        public List<Dinghy> DinghyList; 
+        public List<HSLibrary.Models.Dinghy.Dinghy> DinghyList; 
         public ShowDinghyModel(IDinghyRepository dinghyRepository)
         {
             _dinghyRepository = dinghyRepository;
